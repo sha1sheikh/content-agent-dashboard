@@ -225,6 +225,10 @@ async function main() {
   const res = await fetch("data.json");
   const data = await res.json();
 
+  const pageTitle = `@${data.me.handle} — Content Dashboard`;
+  document.title = pageTitle;
+  document.getElementById("page-title").textContent = pageTitle;
+
   document.getElementById("fetched-at").textContent = `Data pulled ${new Date(data.fetchedAt).toLocaleString()}`;
 
   renderStatTiles(document.getElementById("stat-tiles"), data);

@@ -32,13 +32,9 @@ function isRetryable(status) {
   return status === 429 || status >= 500;
 }
 
-const ME = { handle: "shawon_sheikh", limit: 200 };
-const COMPETITORS = [
-  { handle: "doctordaanish", limit: 30 },
-  { handle: "saffanabanana", limit: 30 },
-  { handle: "lifeofdinoo_", limit: 30 },
-  { handle: "birdtart01", limit: 30 },
-];
+const config = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "config.json"), "utf8"));
+const ME = { handle: config.handle, limit: config.postsLimit };
+const COMPETITORS = config.competitors;
 
 async function runActor(input) {
   const url = `${API_BASE}/acts/${ACTOR}/run-sync-get-dataset-items?token=${APIFY_TOKEN}`;

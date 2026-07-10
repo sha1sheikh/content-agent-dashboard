@@ -1,0 +1,10 @@
+{
+  "handle": "shawon_sheikh",
+  "postsLimit": 200,
+  "competitors": [
+    { "handle": "doctordaanish", "limit": 30 },
+    { "handle": "saffanabanana", "limit": 30 },
+    { "handle": "lifeofdinoo_", "limit": 30 },
+    { "handle": "birdtart01", "limit": 30 }
+  ]
+}
