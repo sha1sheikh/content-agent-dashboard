@@ -155,6 +155,7 @@ async function main() {
   };
 
   const outPath = path.join(__dirname, "..", "dashboard", "data.json");
+  fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2));
   console.log(`\nWrote ${outPath}`);
 
