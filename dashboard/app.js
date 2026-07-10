@@ -186,12 +186,40 @@ function renderCompetitorTopPostsTable(container, data) {
 
 function renderVideoIdeas(container, ideas) {
   for (const idea of ideas) {
-    container.appendChild(el("div", { className: "idea-card" }, [
+    const card = [
       el("div", { className: "pillar", textContent: idea.pillar }),
       el("div", { className: "title", textContent: idea.title }),
       el("div", { className: "hook", textContent: `"${idea.hook}"` }),
       el("div", { className: "rationale", textContent: idea.rationale }),
-    ]));
+    ];
+
+    if (idea.script || idea.visuals) {
+      const details = el("details", { className: "idea-details" }, [
+        el("summary", { textContent: "Script & shooting notes" }),
+      ]);
+      if (idea.script) {
+        details.appendChild(el("div", { className: "script-block", textContent: idea.script }));
+      }
+      if (idea.visuals) {
+        details.appendChild(el("div", { className: "visual-notes" }, [
+          el("div", { className: "visual-row" }, [
+            el("span", { className: "label", textContent: "Setting:" }),
+            el("span", { textContent: idea.visuals.setting }),
+          ]),
+          el("div", { className: "visual-row" }, [
+            el("span", { className: "label", textContent: "Visual hook:" }),
+            el("span", { textContent: idea.visuals.visualHook }),
+          ]),
+          el("div", { className: "visual-row" }, [
+            el("span", { className: "label", textContent: "Other hooks:" }),
+            el("span", { textContent: (idea.visuals.otherHookIdeas || []).join(" · ") }),
+          ]),
+        ]));
+      }
+      card.push(details);
+    }
+
+    container.appendChild(el("div", { className: "idea-card" }, card));
   }
 }
 

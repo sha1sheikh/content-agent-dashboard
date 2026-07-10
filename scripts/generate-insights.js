@@ -48,8 +48,19 @@ const SCHEMA = {
           hook: { type: "string" },
           pillar: { type: "string", enum: ["leadership", "public speaking", "mindset"] },
           rationale: { type: "string" },
+          script: { type: "string" },
+          visuals: {
+            type: "object",
+            properties: {
+              setting: { type: "string" },
+              visualHook: { type: "string" },
+              otherHookIdeas: { type: "array", items: { type: "string" } },
+            },
+            required: ["setting", "visualHook", "otherHookIdeas"],
+            additionalProperties: false,
+          },
         },
-        required: ["title", "hook", "pillar", "rationale"],
+        required: ["title", "hook", "pillar", "rationale", "script", "visuals"],
         additionalProperties: false,
       },
     },
@@ -91,10 +102,10 @@ async function main() {
     })),
   };
 
-  console.log("Asking Claude for video ideas and post suggestions...");
+  console.log("Asking Claude for video ideas, scripts, and post suggestions...");
   const response = await client.messages.create({
     model: "claude-opus-4-8",
-    max_tokens: 4096,
+    max_tokens: 8192,
     thinking: { type: "adaptive" },
     output_config: {
       effort: "high",
@@ -110,9 +121,12 @@ async function main() {
       {
         role: "user",
         content:
-          `Here is real recent Instagram performance data for me and my competitors:\n\n${JSON.stringify(summary, null, 2)}\n\n` +
+          `Here is real recent Instagram performance data for me and my competitors, including my actual captions:\n\n${JSON.stringify(summary, null, 2)}\n\n` +
           `Based on this data and my voice/niche from the brief:\n` +
-          `1. Propose 6 new video ideas — each with a hook (first line/first 3 seconds), which content pillar it belongs to, and why it's timely (a format that's working right now, or a gap in what I'm currently posting).\n` +
+          `1. Propose 6 new video ideas. For each one, give:\n` +
+          `   - a hook (first line/first 3 seconds), which content pillar it belongs to, and why it's timely (a format that's working right now, for me or a competitor, or a gap in what I'm currently posting)\n` +
+          `   - a full short-form video script (the actual words to say, hook through close) written in my voice — study the tone, syntax, and subject matter of my captions above and match it. Blunt but articulate, no generic motivational-poster filler, sounds like a sharp older brother talking, not a coach.\n` +
+          `   - visual direction: the setting/environment to film in (e.g. what to wear, where, framing, energy), the visual hook for the first 3 seconds (what's on screen — on-screen text, an action, a prop, a cut — not just the spoken line), and 2-3 other hook techniques worth trying for this specific idea (pattern interrupt, cold open mid-action, on-screen text punchline, etc.)\n` +
           `2. For ${SUGGESTIONS_COUNT} of my posts above, give a specific "what's working" and "what to improve" note each, grounded in the actual caption and engagement numbers — not generic advice.`,
       },
     ],
