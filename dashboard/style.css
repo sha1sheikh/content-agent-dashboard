@@ -233,3 +233,73 @@ td a:hover { text-decoration: underline; }
   color: var(--text-muted);
   width: 24px;
 }
+
+.idea-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.idea-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+
+.idea-card .pillar {
+  display: inline-block;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--series-1);
+  margin-bottom: 6px;
+}
+
+.idea-card .title {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.idea-card .hook {
+  font-style: italic;
+  color: var(--text-secondary);
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.idea-card .rationale {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.suggestion-item {
+  border-bottom: 1px solid var(--gridline);
+  padding: 14px 0;
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-item a {
+  color: var(--series-1);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.suggestion-item a:hover {
+  text-decoration: underline;
+}
+
+.suggestion-item .row {
+  display: flex;
+  gap: 6px;
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+.suggestion-item .row .label {
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
