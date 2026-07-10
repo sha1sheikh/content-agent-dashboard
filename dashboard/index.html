@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>@shawon_sheikh — Content Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>@shawon_sheikh — Content Dashboard</h1>
+      <p class="subtitle" id="fetched-at">Loading data…</p>
+    </header>
+
+    <div class="stat-tiles" id="stat-tiles"></div>
+
+    <section>
+      <h2>Top posts by views</h2>
+      <p class="note">Your 10 highest-performing posts (photos with no view count are ranked by engagement).</p>
+      <div id="top-posts-chart"></div>
+    </section>
+
+    <section>
+      <h2>Average views by account</h2>
+      <p class="note">You vs. the four competitor accounts, based on posts with a recorded view count.</p>
+      <div class="legend" id="account-legend"></div>
+      <div id="account-chart"></div>
+    </section>
+
+    <section>
+      <h2>Your top 10 posts</h2>
+      <div id="top-posts-table"></div>
+    </section>
+
+    <section>
+      <h2>Competitor top posts</h2>
+      <p class="note">Each competitor's highest-viewed post in the sampled window.</p>
+      <div id="competitor-table"></div>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
