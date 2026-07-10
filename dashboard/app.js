@@ -241,7 +241,7 @@ function renderPostSuggestions(container, suggestions) {
 
 async function loadInsights() {
   try {
-    const res = await fetch("insights.json");
+    const res = await fetch("insights.json", { cache: "no-store" });
     if (!res.ok) return null;
     return await res.json();
   } catch {
@@ -250,7 +250,7 @@ async function loadInsights() {
 }
 
 async function main() {
-  const res = await fetch("data.json");
+  const res = await fetch("data.json", { cache: "no-store" });
   const data = await res.json();
 
   const pageTitle = `@${data.me.handle} — Content Dashboard`;
