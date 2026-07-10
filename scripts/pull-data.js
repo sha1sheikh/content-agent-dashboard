@@ -17,6 +17,21 @@ if (!APIFY_TOKEN) {
 const ACTOR = "apify~instagram-scraper";
 const API_BASE = "https://api.apify.com/v2";
 
+const MAX_RETRIES = 4;
+const BASE_DELAY_MS = 1000;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Apify runs can hit rate limits (429) or transient 5xx/network errors,
+// especially with several sequential actor calls (profile + 5 accounts).
+// Retry those with exponential backoff; anything else (bad input, auth,
+// actor errors) fails immediately since retrying won't help.
+function isRetryable(status) {
+  return status === 429 || status >= 500;
+}
+
 const ME = { handle: "shawon_sheikh", limit: 200 };
 const COMPETITORS = [
   { handle: "doctordaanish", limit: 30 },
@@ -27,16 +42,34 @@ const COMPETITORS = [
 
 async function runActor(input) {
   const url = `${API_BASE}/acts/${ACTOR}/run-sync-get-dataset-items?token=${APIFY_TOKEN}`;
-  const res = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(input),
-  });
-  if (!res.ok) {
+
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    let res;
+    try {
+      res = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(input),
+      });
+    } catch (err) {
+      if (attempt === MAX_RETRIES) throw err;
+      const delay = BASE_DELAY_MS * 2 ** attempt;
+      console.warn(`  network error (${err.message}), retrying in ${delay}ms...`);
+      await sleep(delay);
+      continue;
+    }
+
+    if (res.ok) return res.json();
+
     const text = await res.text();
-    throw new Error(`Apify run failed (${res.status}): ${text.slice(0, 500)}`);
+    if (!isRetryable(res.status) || attempt === MAX_RETRIES) {
+      throw new Error(`Apify run failed (${res.status}): ${text.slice(0, 500)}`);
+    }
+    const retryAfterHeader = Number(res.headers.get("retry-after"));
+    const delay = retryAfterHeader > 0 ? retryAfterHeader * 1000 : BASE_DELAY_MS * 2 ** attempt;
+    console.warn(`  Apify run failed (${res.status}), retrying in ${delay}ms...`);
+    await sleep(delay);
   }
-  return res.json();
 }
 
 async function fetchProfileDetails(handle) {
