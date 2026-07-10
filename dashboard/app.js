@@ -184,6 +184,43 @@ function renderCompetitorTopPostsTable(container, data) {
   container.appendChild(table);
 }
 
+function renderVideoIdeas(container, ideas) {
+  for (const idea of ideas) {
+    container.appendChild(el("div", { className: "idea-card" }, [
+      el("div", { className: "pillar", textContent: idea.pillar }),
+      el("div", { className: "title", textContent: idea.title }),
+      el("div", { className: "hook", textContent: `"${idea.hook}"` }),
+      el("div", { className: "rationale", textContent: idea.rationale }),
+    ]));
+  }
+}
+
+function renderPostSuggestions(container, suggestions) {
+  for (const s of suggestions) {
+    container.appendChild(el("div", { className: "suggestion-item" }, [
+      el("a", { href: s.postUrl, target: "_blank", rel: "noopener", textContent: "View post" }),
+      el("div", { className: "row" }, [
+        el("span", { className: "label", textContent: "Working:" }),
+        el("span", { textContent: s.whatsWorking }),
+      ]),
+      el("div", { className: "row" }, [
+        el("span", { className: "label", textContent: "Improve:" }),
+        el("span", { textContent: s.whatToImprove }),
+      ]),
+    ]));
+  }
+}
+
+async function loadInsights() {
+  try {
+    const res = await fetch("insights.json");
+    if (!res.ok) return null;
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
   const res = await fetch("data.json");
   const data = await res.json();
@@ -202,6 +239,20 @@ async function main() {
   );
   renderTopPostsTable(document.getElementById("top-posts-table"), data);
   renderCompetitorTopPostsTable(document.getElementById("competitor-table"), data);
+
+  const insights = await loadInsights();
+  if (insights) {
+    if (insights.videoIdeas && insights.videoIdeas.length) {
+      document.getElementById("ideas-section").style.display = "";
+      document.getElementById("insights-generated-at").textContent =
+        `Generated ${new Date(insights.generatedAt).toLocaleString()}`;
+      renderVideoIdeas(document.getElementById("idea-grid"), insights.videoIdeas);
+    }
+    if (insights.postSuggestions && insights.postSuggestions.length) {
+      document.getElementById("suggestions-section").style.display = "";
+      renderPostSuggestions(document.getElementById("suggestions-list"), insights.postSuggestions);
+    }
+  }
 }
 
 main().catch((err) => {
