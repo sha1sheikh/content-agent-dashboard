@@ -1,99 +1,99 @@
 {
-  "generatedAt": "2026-07-10T08:58:33.190Z",
+  "generatedAt": "2026-07-11T07:32:41.018Z",
   "videoIdeas": [
     {
-      "title": "How to speak so people actually listen",
-      "hook": "You don't have a confidence problem. You have a clarity problem.",
+      "title": "Why nobody listens to you (it's not your point)",
+      "hook": "You're not being ignored because your point is weak. You're being ignored because you deliver it like you're apologising for having a mouth.",
       "pillar": "public speaking",
-      "rationale": "My entire top-post history is opinion/Ummah commentary — there's almost nothing tactical on public speaking, which is literally one of my three pillars. Meanwhile lifeofdinoo_ pulled 15k on a 'small talk breakdown' and birdtart01 hit 784k on 'networking questions.' Practical, teachable public-speaking breakdowns are working right now and I'm not touching them.",
-      "script": "You don't have a confidence problem. You have a clarity problem.\n\nMost people freeze up not because they're scared — it's because they don't actually know what they're trying to say. So they hedge. They pad it with \"I think maybe kind of.\" And people switch off.\n\nHere's the fix. Before you speak, force yourself to answer one question: what's the single sentence I'd say if I only had one? Say that first. Then explain. Not the other way round.\n\nThe reason imams and good teachers hold a room isn't volume. It's that every sentence knows where it's going. You feel it.\n\nStop trying to sound impressive. Start trying to be understood. The rest handles itself.",
+      "rationale": "Your commentary videos are your best performers (6.1k on the protest video), but they're all about what to think — not how to say it. lifeofdinoo_ and birdtart01 are cleaning up right now with concrete communication mechanics (small talk breakdown, networking questions). There's a clear gap: you have the opinions, you're not yet teaching the delivery. This bridges your natural subject matter into the public speaking pillar.",
+      "script": "You're not being ignored because your point is weak. You're being ignored because you deliver it like you're apologising for having a mouth.\n\nWatch people in a room. The one everyone listens to isn't the loudest. He's the one who says less and doesn't rush. He lands a sentence, then stops. He lets the silence do the work.\n\nMost of you fill every gap because silence makes you nervous. So you pad it. \"I mean, like, I don't know, maybe.\" By the time you get to the point, they've stopped caring.\n\nHere's the fix. Say the thing. Full stop. Don't chase it with three qualifiers to soften it. If it's true, it doesn't need a cushion.\n\nConfidence isn't volume. It's the willingness to say something and let it sit there.",
       "visuals": {
-        "setting": "Plain wall or masjid-adjacent neutral background, sat or stood mid-shot, calm and direct energy — like you're correcting a younger brother, not performing. Solid colour top, minimal.",
-        "visualHook": "On-screen text slams up: \"CONFIDENCE ≠ THE PROBLEM\" while you deliver the first line straight to camera, no smile.",
+        "setting": "Plain wall or clean indoor space, mid-shot, one solid neutral colour top. Calm, controlled energy — you're demonstrating the exact stillness you're preaching. Slightly slower delivery than your commentary videos.",
+        "visualHook": "Open on you dead silent for a full second looking at camera, then on-screen text snaps up: \"WHY NOBODY LISTENS TO YOU\" as you deliver the first line.",
         "otherHookIdeas": [
-          "Cold open mid-sentence with you already mid-point, then cut back to the hook line",
-          "Silent 1-second stare at camera before the first word — pattern interrupt",
-          "On-screen text of the weak version (\"I think maybe kind of...\") getting crossed out"
+          "Cold open mid-sentence: cut in right as you say \"...like you're apologising for having a mouth\" then reset",
+          "On-screen text punchline that stays: \"Silence is a skill\" pinned in corner throughout",
+          "Pattern interrupt: start by rambling with filler words on purpose, then hard cut to you speaking cleanly"
         ]
       }
     },
     {
-      "title": "Leadership is trust before talent",
-      "hook": "We keep handing leadership to the loudest guy in the room. That's why the room's a mess.",
+      "title": "The Prophetic definition of leadership nobody wants",
+      "hook": "Everyone wants to lead. Nobody wants to be trustworthy when it costs them something. That's why most of you will never lead anything.",
       "pillar": "leadership",
-      "rationale": "My Prophetic-leadership post (Al-Qawi wal-Ameen) only did 508 views but it's exactly my lane and got saved-worthy engagement. The problem was it read like a slide, not a take. Repackaging that same idea with a blunt, present-day framing plays to my proven strength (opinion delivery) while staying on the leadership pillar.",
-      "script": "We keep handing leadership to the loudest guy in the room. Then we act surprised when the room's a mess.\n\nThe Prophetic standard for leadership was two words: Al-Qawi wal-Ameen. Competent and trustworthy. Notice the order people ignore — trust isn't the bonus. It's the floor.\n\nWe've flipped it. We pick the confident one, the connected one, the one who talks a good game, and we hope the character shows up later. It usually doesn't.\n\nHere's the test before you follow anyone, or before you put yourself forward: would this person tell you the truth when it costs them something? If not, everything else they've got is just decoration.\n\nCharacter first. Skill second. That's not soft. That's the whole thing.",
+      "rationale": "Your Al-Qawi wal-Ameen post (508 views) had the right idea but underperformed — it read like a book quote, not you talking. Your commentary voice is what actually moves numbers. Re-do the leadership pillar in your blunt register instead of caption-quoting scripture. doctordaanish proves character-based content scales massively (193k on the 'good character is built at home' video) when it's delivered as conviction, not lecture.",
+      "script": "Everyone wants to lead. Nobody wants to be trustworthy when it costs them something. That's why most of you will never lead anything.\n\nWe measure leaders by reach now. Followers, influence, who's in the room. The Prophetic model puts that dead last.\n\nAl-Qawi wal-Ameen. Competent and trustworthy. In that order the character comes before the platform, not after you've already built one and need to clean up the image.\n\nYou can be the most capable man in the room. If people can't trust you with a secret, a debt, or their honour, your competence is a liability. It just means you're better at doing damage.\n\nStop asking how to be seen as a leader. Ask whether anyone would actually trust you with something that matters. Start there.",
       "visuals": {
-        "setting": "Slightly more composed setting — desk or bookshelf behind you, still direct to camera. Measured, older-brother tone, not hyped.",
-        "visualHook": "On-screen text \"Al-Qawi wal-Ameen\" appears, then the word order visibly swaps to show what people actually do vs what they should do.",
+        "setting": "Slightly more serious setting — darker top, indoor, direct eye contact, minimal movement. Weighty tone, not preachy. Speak like you're correcting someone you respect.",
+        "visualHook": "On-screen text hits hard on frame one: \"COMPETENT ≠ TRUSTWORTHY\" while you say the opening line straight to camera.",
         "otherHookIdeas": [
-          "Open on a rhetorical: 'Quick question — who's the last leader you actually trusted?' then hold",
-          "Cold open with the line 'Trust isn't the bonus, it's the floor' then rewind to the hook",
-          "On-screen counter: 'Competent ✅ Trustworthy ❌ — pick one and watch what happens'"
+          "Cold open on the phrase 'Al-Qawi wal-Ameen' written on screen, then you translate it live",
+          "Pattern interrupt: 'Everyone wants to lead—' hard pause '—nobody wants the boring part'",
+          "Two-word text stamps timed to each trait: 'COMPETENT' then 'TRUSTWORTHY'"
         ]
       }
     },
     {
-      "title": "Stop refuting everyone online",
-      "hook": "Half of you think arguing online is a form of worship. It isn't.",
-      "pillar": "mindset",
-      "rationale": "My own captions repeatedly wrestle with this exact tension — 'I didn't want to make this account a refutation page' (659 views), and posts calling out people spewing venom while the Ummah's attacked (1044 views, high like ratio). This is clearly a live nerve for my audience. Turning that recurring theme into a direct mindset piece is a proven-resonance topic, not a guess.",
-      "script": "Half of you think arguing online is a form of worship. It isn't.\n\nI've caught myself doing it too — typing the perfect takedown, refreshing to see if he replied. And I had to be honest: that's not defending the deen. That's my ego wearing the deen as a costume.\n\nThere's a difference between correcting something that actually harms people, and just needing to be right in public. One serves the Ummah. The other serves you.\n\nHere's the filter. Before you post the reply, ask: does this fix anything, or does it just make me feel sharp? If it's the second one, close the app.\n\nOur brothers and sisters are being attacked left, right and centre. Aim your energy at what's dire. Not at whoever annoyed you in the comments.",
-      "visuals": {
-        "setting": "Handheld or casual, closer crop, slightly self-aware energy at the start (admitting your own fault) before it sharpens. Feels like a confession that turns into advice.",
-        "visualHook": "On-screen text: \"arguing online ≠ ibadah\" while you deliver the hook flat, no music.",
-        "otherHookIdeas": [
-          "Cold open of you typing on a phone then locking it and looking up",
-          "Pattern interrupt: start with 'I used to do this too' — vulnerability hook",
-          "On-screen punchline text at the end: 'Aim at what's dire.'"
-        ]
-      }
-    },
-    {
-      "title": "The 3-second rule that kills stage fear",
-      "hook": "The silence before you speak feels like an hour. To everyone else it's nothing.",
+      "title": "You're not anxious, you're unprepared",
+      "hook": "You think you have a fear of public speaking. You don't. You have a habit of walking in with nothing rehearsed and hoping charisma covers it.",
       "pillar": "public speaking",
-      "rationale": "Public speaking is an underserved pillar in my feed and short tactical breakdowns are the format crushing it for competitors (dinoo's small-talk breakdown, birdtart's networking questions). A tight, single-technique video is exactly the shape that travels — and it fills my biggest content gap.",
-      "script": "The silence before you speak feels like an hour. To everyone else, it's nothing.\n\nThat pause you're terrified of? Pros do it on purpose. Walk up, plant your feet, take one breath, and count three seconds before your first word. Silent. On purpose.\n\nFeels unbearable to you. To the audience it reads as control. Like you meant it.\n\nMost people rush their opening because the quiet scares them, and they blow their first line — the one line people actually remember. Don't hand your best moment to your nerves.\n\nBreathe. Three seconds. Then speak. That's it. You'll sound like you own the room before you've said a word.",
+      "rationale": "Public speaking is a core pillar in the brief but almost absent from your actual feed. The market's hot for it right now (lifeofdinoo_ small-talk breakdown, birdtart01 networking questions both went off). A blunt, myth-busting take on 'stage fright' is a format gap for you and fits your contrarian instinct.",
+      "script": "You think you have a fear of public speaking. You don't. You have a habit of walking in with nothing rehearsed and hoping charisma covers it.\n\nReal talk the nerves aren't the problem. The nerves are information. They're telling you you're not ready, and you're ignoring them.\n\nThe people who look calm on stage aren't braver than you. They've said the first thirty seconds out loud so many times it's boring to them. Boredom is the goal. You want to be so over your opening line that your body has nothing to panic about.\n\nSo stop practising in your head. Your head lies. Say it out loud, on your feet, to a wall. Ten times. Then the room stops being a threat.\n\nCourage is just preparation that's had enough reps to feel like calm.",
       "visuals": {
-        "setting": "Stand up, a bit of space around you, imitate walking to a 'stage' spot. Slightly more energy and demonstration-based — you actually perform the pause on camera.",
-        "visualHook": "You walk into frame, plant, and there's a literal 3-second countdown on screen (3...2...1) before you say anything — the silence IS the hook.",
+        "setting": "Standing, not sitting — you're talking about being on your feet, so film on your feet. Neutral background, natural hand gestures, grounded energy.",
+        "visualHook": "On-screen text: \"IT'S NOT FEAR. IT'S ADMIN.\" appears as you say the first line, mild smirk.",
         "otherHookIdeas": [
-          "On-screen text: 'This pause = weakness ❌ / control ✅'",
-          "Cold open mid-demo of you doing the breath, then explain",
-          "Split-screen: rushed opener vs paused opener"
+          "Cold open mid-action: you rehearsing a line to a wall, then turn to camera",
+          "Text punchline reveal: 'nerves = information' typed out word by word",
+          "Pattern interrupt: whisper the hook, then normal volume — mirrors the fear/calm theme"
         ]
       }
     },
     {
-      "title": "Your character is built when no one's clapping",
-      "hook": "You want to be respected. But you only show up when there's a camera on.",
+      "title": "Outrage is not action",
+      "hook": "Posting your anger is not the same as doing something. Half of you have confused typing with fighting.",
       "pillar": "mindset",
-      "rationale": "birdtart01's best-performing mindset content is exactly this reflective 'the older I get' character-and-standards angle (238k and 55k views). My audience overlaps heavily. I can hit the same theme but in my blunter, deen-rooted voice instead of the soft aesthetic one — a clear differentiated gap.",
-      "script": "You want to be respected. But you only show up when there's a camera on.\n\nHere's the uncomfortable bit: your real character is whatever you do when there's no audience, no reward, and no one keeping score. The prayer no one saw. The DM you didn't send. The time you stayed quiet when being loud would've looked good.\n\nEveryone can perform integrity for a clip. Almost no one carries it home.\n\nAnd the thing is, people can smell the difference. The person who's the same alone as they are on stage — that consistency is magnetic. You don't have to announce it. It leaks out.\n\nStop building a highlight reel. Build the thing that's still true when the lights are off.",
+      "rationale": "This is your lane — your protest video (6.1k) and the 'is it not time to focus on what's dire' video (108 likes, high engagement) prove your audience shows up for sharp Ummah commentary. But reframe it as a mindset lesson about the gap between feeling productive and being productive. That gives it a longer shelf life than a reactive post and fits the mindset pillar cleanly.",
+      "script": "Posting your anger is not the same as doing something. Half of you have confused typing with fighting.\n\nYou see something wrong. You feel the heat rise. You fire off a story, a comment, a repost and you feel lighter. That relief? That's the trap. Your brain just rewarded you for doing nothing.\n\nOutrage is cheap. It costs you a thumb movement and gives you the feeling of having taken a stand. Meanwhile nothing in the real world moved an inch.\n\nI'm not saying don't speak. I'm saying notice when speaking has become your substitute for acting. Did you give? Did you show up? Did you change one thing you actually control?\n\nBe honest about the difference between venting and contributing. One feels good. The other does good.",
       "visuals": {
-        "setting": "Low-key, dim, evening light or quiet room — visually match the 'when no one's watching' theme. Calm, honest, direct.",
-        "visualHook": "On-screen text: \"Who are you with 0 views?\" as you open flat to camera.",
+        "setting": "Your usual commentary setup — you're most natural here. Direct, a little heated but controlled. Indoor, plain background, phone in hand as a prop works well for this one.",
+        "visualHook": "Open holding your phone up, thumb scrolling, then lower it and look at camera as text hits: \"TYPING ≠ FIGHTING\".",
         "otherHookIdeas": [
-          "Cold open with the light literally switching off then on",
-          "Pattern interrupt: 'Be honest for a second —' before the hook",
-          "End on on-screen text: 'Build what survives the lights going off.'"
+          "Cold open on the phone-scroll action before any words",
+          "On-screen text punchline held: 'Relief is the trap'",
+          "Pattern interrupt: start fast and angry, then drop to slow and quiet on 'be honest'"
         ]
       }
     },
     {
-      "title": "How to disagree without losing the room",
-      "hook": "You can be completely right and still lose, because you made it about winning.",
-      "pillar": "leadership",
-      "rationale": "My highest-engagement posts are all disagreements — protests, hijrah bros, refutations (6134 and 1044 views). That's my proven engine. But I can level it up from 'having takes' to 'teaching how to hold a take well,' which stays on the leadership pillar and turns my most-viral instinct into something teachable and shareable.",
-      "script": "You can be completely right and still lose. Because the second you make it about winning, the other person stops listening — they're just waiting for their turn.\n\nLeadership isn't proving you're smarter. It's moving people. Different skill entirely.\n\nThree things. One — say back their point better than they said it, before you argue. Now they know you actually heard them. Two — attack the idea, never the person. The moment it gets personal, you've lost, even if you're right. Three — leave them a way out. Nobody changes their mind while being humiliated.\n\nBeing right is easy. Being right in a way people can accept — that's the whole job.\n\nMost arguments online aren't lost on facts. They're lost on ego. Don't be that guy.",
+      "title": "Stop waiting to feel ready",
+      "hook": "You keep saying you'll speak up, lead, start, once you feel ready. You won't. Ready is not a feeling that arrives. It's a decision you're avoiding.",
+      "pillar": "mindset",
+      "rationale": "birdtart01's 'high agency' and 'the world is what you make of it' content is pulling 57k+ — agency/ownership mindset is the format working in your niche right now. You have zero of this on your feed. A blunt take on the 'waiting to feel ready' excuse is a strong entry point and pairs naturally with your leadership and speaking material.",
+      "script": "You keep saying you'll speak up, lead, start, once you feel ready. You won't. Ready is not a feeling that arrives. It's a decision you're avoiding.\n\nHere's the thing nobody tells you the feeling comes after you start, not before. You act first, badly, and the confidence catches up. That's the whole order. You've got it backwards.\n\nWaiting to feel ready is just fear wearing a respectable outfit. It sounds responsible. \"I'm preparing.\" No, you're stalling, and you've found a word for it that doesn't hurt your ego.\n\nThe person you're jealous of didn't feel more ready than you. They just moved while still uncertain. That's it. That's the whole gap.\n\nSo do the thing before you feel like it. Feeling like it is the reward, not the entry fee.",
       "visuals": {
-        "setting": "Direct to camera, composed, slightly warmer authority — the older brother who's seen the mistake made a hundred times. Count the three points on fingers.",
-        "visualHook": "On-screen text: \"RIGHT ≠ PERSUASIVE\" as you deliver the hook.",
+        "setting": "Clean, slightly brighter setting than your commentary videos to signal it's a mindset piece. Relaxed but firm, like you're calling out a younger sibling with love.",
+        "visualHook": "On-screen text on frame one: \"'READY' IS A LIE YOU TELL YOURSELF\" as you deliver the hook flat and direct.",
         "otherHookIdeas": [
-          "Number the 3 tactics with big on-screen text as you hit each — retention structure",
-          "Cold open on point 3 ('leave them a way out') then jump to the top",
-          "Rhetorical open: 'Ever won an argument and still lost the person?'"
+          "Pattern interrupt: 'Once I feel ready—' then cut yourself off, 'yeah, that day's not coming'",
+          "Text reveal timed to 'fear wearing a respectable outfit'",
+          "Cold open mid-thought as if answering a DM someone sent you"
+        ]
+      }
+    },
+    {
+      "title": "The refutation trap",
+      "hook": "I didn't want this to be a page that just tears people down. But you have to know when correcting someone is service, and when it's just your ego with a scholarly accent.",
+      "pillar": "leadership",
+      "rationale": "Directly builds on your own caption from the 1 June post ('I didn't want to make this account a refutation page') — that's a self-aware, authentic thread your audience already responded to. Turning your recurring theme about sectarianism and public criticism into a leadership lesson on discernment and restraint is uniquely yours; no competitor can copy it, and it strengthens the leadership pillar with your real voice.",
+      "script": "I didn't want this to be a page that just tears people down. But you have to know when correcting someone is service, and when it's just your ego with a scholarly accent.\n\nHere's the test. Before you publicly correct someone, ask what you actually want. Do you want them to be right? Or do you want to be seen being right? Those are two completely different missions.\n\nLeaders correct to build. They do it privately when they can, publicly only when the harm is public. What they don't do is farm engagement off their own brother's mistake.\n\nAnd the sectarianism? Half of it isn't even about truth anymore. It's tribe. You've picked a team and you defend it like it's your surname.\n\nGuard your tongue the same way you'd want someone to guard yours. That's the standard. Not winning the comment section.",
+      "visuals": {
+        "setting": "Serious, measured — this is a self-reflective one. Direct to camera, plain background, lower energy and slower than your usual heated takes. Let the weight land.",
+        "visualHook": "On-screen text: \"CORRECTION or EGO?\" with the two words as a toggle, as you say the opening.",
+        "otherHookIdeas": [
+          "Cold open on the question 'What do you actually want?' before context",
+          "Text punchline held: 'ego with a scholarly accent'",
+          "Pattern interrupt: start as if mid-argument, then pull back to calm reflection"
         ]
       }
     }
@@ -101,28 +101,28 @@
   "postSuggestions": [
     {
       "postUrl": "https://www.instagram.com/p/DY45aS-sL8X/",
-      "whatsWorking": "This is your biggest post by a mile — 6134 views, more than double your next best. The protest topic hit because it's timely, high-conviction, and takes a clear side. Your audience rewards you being blunt and unafraid; the 211 likes confirm the stance landed, not just the reach.",
-      "whatToImprove": "The caption cuts off mid-thought ('feel bett...') and the like-to-comment ratio (211:15) shows people agreed but didn't feel pulled to talk. End the caption on a sharp, complete line that forces a response — a direct question or a line people want to tag someone under. You had the reach; you left the conversation on the table."
-    },
-    {
-      "postUrl": "https://www.instagram.com/p/DUS84EzjPQd/",
-      "whatsWorking": "2997 views with 24 comments — your strongest comment count in the top tier. The Iraq/Afghanistan-to-Iran framing works because it's a concrete historical parallel, not a vague opinion. Specifics spark debate, and this one did.",
-      "whatToImprove": "74 likes against 2997 views is a low like rate — the topic provoked but didn't fully land emotionally or feel 'save-worthy.' Give people one crisp takeaway line they can screenshot, so the reach converts into likes and saves, not just argument in the comments."
+      "whatsWorking": "This is your ceiling — 6,134 views, more than double your next best. The hook 'Can't believe we're still discussing the necessity of protests in 2026' works because it's a dated, present-tense provocation that assumes a shared frustration and forces a stance. That's your genuine voice and the algorithm rewarded the watch-time a strong take generates.",
+      "whatToImprove": "The caption trails off mid-sentence ('to make themselves feel bett…') and the point gets muddy. Front-load one clean, quotable line that stands on its own so people can screenshot and share it — sharing is what pushed this past your normal reach, and a sharper caption would amplify that further."
     },
     {
       "postUrl": "https://www.instagram.com/p/DWr6aqyDJDB/",
-      "whatsWorking": "138 likes on 2106 views is your best like-rate in the top posts — the 'Hijrah bros' callout clearly resonated with people who were thinking it but not saying it. Naming a specific type of person, specifically, is a strength of yours. Keep doing that.",
-      "whatToImprove": "Only 5 comments — you satisfied people so completely they had nothing to add. And the caption trails off ('brag ab...'). Close with a provocation that invites their own examples ('tell me I'm wrong' / 'what's the most ridiculous one you've seen') to turn agreement into a comment thread."
+      "whatsWorking": "138 likes on 2,106 views is a 6.5% like rate — one of your highest ratios. The 'UAE Hijrah bros' angle names a specific, recognisable target, and specificity is what made people feel it enough to like. This is proof your audience wants you pointed, not general.",
+      "whatToImprove": "Only 5 comments despite strong likes — the take was so complete it left nothing to argue. End with a direct question or a line that invites the other side to defend themselves. Your high-comment posts (24 comments on the Iraq/Afghanistan one) happen when you leave a door open for pushback."
     },
     {
       "postUrl": "https://www.instagram.com/p/DTauCL6jJ8Z/",
-      "whatsWorking": "This is one of your only genuine leadership-pillar posts (Al-Qawi wal-Ameen) and it still pulled 58 likes on 508 views — a high like-rate for a lower-reach post. The audience that finds it clearly values it. The core idea (integrity before influence) is exactly your lane.",
-      "whatToImprove": "508 views means it barely traveled, and the caption reads like a carousel slide ('📖 11 Prophetic Qualities...') rather than a hook. This topic deserves a punchy, opinionated opening line — lead with the blunt take ('We hand leadership to the loudest guy in the room'), not the reference. Your commentary voice out-performs your teaching voice; use it on your best material."
+      "whatsWorking": "This is your clearest on-brief leadership post (Al-Qawi wal-Ameen, 'influence before character') and the concept is exactly the lane the brief points at. The structure — claim, principle, one-line payoff — is tight.",
+      "whatToImprove": "Only 508 views. It reads like a caption of a book quote, not you talking, so it lost the conviction that carries your commentary videos. Deliver leadership takes in the same blunt, present-tense, 'half of you' register you use for Ummah content — the subject is fine, the delivery went soft and formal."
     },
     {
-      "postUrl": "https://www.instagram.com/p/DZTRC2KMKuU/",
-      "whatsWorking": "108 likes on 1044 views is an excellent like-rate — roughly 10%, far above your bigger posts. The 'is it not time to focus on what's dire' framing tapped real frustration and moral urgency, and 13 comments show it moved people. This 'stop the infighting, look at what matters' theme is clearly a nerve worth hitting again.",
-      "whatToImprove": "The reach was modest relative to how hard it landed with the people who saw it — meaning the hook/opening didn't grab enough to spread. Front-load the sharpest line ('Does it not shame you...') as the first 3 seconds of the video itself, not buried in caption, so the algorithm and the scroller both get hit immediately."
+      "postUrl": "https://www.instagram.com/p/DZ-DNc7sF-y/",
+      "whatsWorking": "24 comments on 827 views is a huge conversation rate — 'Don't let sectarianism blind you to the horrors' hit a nerve because it challenges the viewer's tribe directly. Controversy that touches identity drives your comments harder than anything else.",
+      "whatToImprove": "Likes lagged (42) relative to the comment storm, which usually means the comments were arguments, not agreement — fine for reach, but make sure your on-screen delivery gives the reasonable middle a line to rally behind too, so you convert some of that debate into saves and follows, not just a fight you moderate."
+    },
+    {
+      "postUrl": "https://www.instagram.com/p/DaYdhqOMm3K/",
+      "whatsWorking": "You're building on your own recurring themes ('I've already spoken about this'), which shows a consistent point of view — that's what turns viewers into a following rather than one-off watchers.",
+      "whatToImprove": "883 views and zero comments — the caption is abstract ('difference between trivialising and making things fun') with no clear target or stakes, so there's nothing to react to. When you reference a past take, restate the sharp version in one line for new viewers; assuming context loses everyone who didn't see the first video."
     }
   ]
 }
