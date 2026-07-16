@@ -1,99 +1,99 @@
 {
-  "generatedAt": "2026-07-15T07:49:32.107Z",
+  "generatedAt": "2026-07-16T07:54:41.532Z",
   "videoIdeas": [
     {
-      "title": "Articulate isn't fancy words",
-      "hook": "You're not articulate. You've just memorised a thesaurus.",
+      "title": "Why Nobody Listens To You When You Speak",
+      "hook": "You're not being misunderstood because your vocabulary is small. You're being misunderstood because you're trying to sound smart.",
       "pillar": "public speaking",
-      "rationale": "Your own post 'The most articulate person isn't the one who can use the most fancy words' (459 views) hit a real nerve in the public speaking pillar but was under-developed. Expand it into a full breakdown — communication/speaking teardown formats are exactly what's working for lifeofdinoo (small talk breakdown, 'costing you respect'). This is a proven idea in your voice you left on the table.",
-      "script": "You're not articulate. You've just memorised a thesaurus. There's a difference. Half the people who think they're great speakers are just hiding behind long words because they never learned to actually say anything. Real articulacy is this: can the person in front of you understand exactly what you meant, first time, without you repeating yourself? That's it. That's the whole skill. The Prophet ﷺ spoke so clearly that if you counted his words you could. No padding. No showing off. So next time you're about to reach for the impressive word, ask yourself one thing — am I trying to be understood, or am I trying to be admired? Because you can't do both.",
+      "rationale": "My post 'the most articulate person isn't the one who can use the most fancy words' only pulled 466 views, but the idea is core to my public speaking pillar. The problem wasn't the topic, it was a soft hook and no tension. lifeofdinoo_ is cleaning up right now with communication breakdowns ('communication is costing you respect' — 16k views, 131 comments). Same lane, so I'm reframing this with a sharper, confrontational open.",
+      "script": "You're not being misunderstood because your vocabulary is small. You're being misunderstood because you're trying to sound smart.\n\nHalf of you think articulate means fancy. It doesn't. Articulate is when the person in front of you understands exactly what you meant the first time. That's it.\n\nThe most powerful speakers I know use small words on purpose. Because their goal isn't to impress you, it's to move you.\n\nWhen you reach for the big word, you're not speaking to the room anymore. You're speaking to your own ego.\n\nSay the thing plainly. Let it land. That's the skill.",
       "visuals": {
-        "setting": "Plain wall or bookshelf, natural light, seated or standing close to camera. Smart-casual, calm energy — you're explaining, not performing. Slightly leaned in.",
-        "visualHook": "On-screen text 'ARTICULATE ≠ FANCY WORDS' slams up while you say the first line, then cut it away fast.",
+        "setting": "Indoors, plain wall or bookshelf background, sitting or standing close to camera, calm but direct energy — like you're correcting someone one-on-one. Muted, grown tones. No music under the first line.",
+        "visualHook": "On-screen text 'STOP trying to sound smart' cuts in hard on the first frame while you hold eye contact and say the line flat.",
         "otherHookIdeas": [
-          "Cold open mid-sentence with you crossing out a long word written on paper",
-          "Pattern interrupt: say a ridiculously overcomplicated sentence, then pause and say 'nobody understood that'",
-          "On-screen caption that finishes the punchline before you say it"
+          "Cold open mid-sentence: start already talking as if the viewer walked in on the argument",
+          "Pattern interrupt — hold up a thesaurus, then toss it off-frame as you say 'articulate isn't this'",
+          "On-screen text punchline that lags the audio: text says 'you're speaking to your own ego' a half-second after you say it"
         ]
       }
     },
     {
-      "title": "Not everyone's meant for the mimbar",
-      "hook": "Not every student of knowledge is meant to sit in a chair and give dars.",
+      "title": "Charisma Is Not Leadership",
+      "hook": "We keep handing leadership to the loudest person in the room. Then we act surprised when it falls apart.",
       "pillar": "leadership",
-      "rationale": "Your post with this exact line (733 views, 0 comments) had a strong idea but no payoff — it didn't tell people what to DO. Leadership 'find your lane' content aligns directly with your pillar and the gap in your feed: you post plenty of critique but little that builds the viewer. Reframe as a leadership/role clarity piece.",
-      "script": "Not every student of knowledge is meant to sit in a chair and give dars. Not everyone's meant to climb the mimbar or write the books or lead the salah. And somewhere along the way we convinced young Muslims that if you're not visibly 'da'wah', you're wasting your life. That's a lie. The Ummah doesn't just need imams. It needs the engineer who's honest. The teacher who actually shows up. The organiser nobody claps for who makes the whole event run. Leadership isn't a stage — it's carrying weight where you're standing. So stop trying to force yourself into someone else's role because it looks more righteous. Find the weight only you can carry, and carry it well.",
+      "rationale": "My Prophetic leadership post (Al-Qawi wal-Ameen, competent and trustworthy) only got 508 views but it's exactly the leadership pillar the brief wants me anchored in. The issue was the caption read like a slide, not a stance. birdtart01 is pulling hundreds of thousands with blunt character takes ('the more cautious I am with my character'). I can take the same bluntness and put a leadership frame on it.",
+      "script": "We keep handing leadership to the loudest person in the room. Then we act surprised when it falls apart.\n\nThe Prophetic model reverses the order we chase things in. We want influence first, character second. He built it the other way round.\n\nAl-Qawi wal-Ameen. Strong and trustworthy. Competent and honest. Notice trust is on the list — because a capable liar isn't a leader, he's a liability with good delivery.\n\nStop being impressed by people who can talk. Get impressed by people you'd trust with something that actually matters.\n\nCharacter first. Everything else is decoration.",
       "visuals": {
-        "setting": "Masjid courtyard, library, or clean indoor space. Modest, grounded. Steady mid-shot, minimal movement — this one carries on words, not energy.",
-        "visualHook": "On-screen text lists 'Imam / Author / Sheikh' then a red line strikes through all three as you speak.",
+        "setting": "Slightly more formal — collared shirt, clean framing, seated. Serious older-brother energy. Frame a bit wider so it feels like a talk, not a rant.",
+        "visualHook": "On-screen text 'Charisma ≠ Leadership' stamped over a still first frame before you start speaking.",
         "otherHookIdeas": [
-          "Cold open: 'You think you're failing the deen. You're not.'",
-          "Cut between an empty mimbar and everyday scenes (desk, workshop)",
-          "On-screen text punchline: 'Leadership isn't a stage.'"
+          "Cold open on the phrase 'Al-Qawi wal-Ameen' spoken first, then translate it — curiosity gap",
+          "Point to camera on 'the loudest person in the room' as a physical accusation",
+          "Text overlay listing 'Loud. Confident. Charming.' then a hard strike-through on all three"
         ]
       }
     },
     {
-      "title": "You're not shy, you're unprepared",
-      "hook": "You're not shy. You just walked in with nothing to say.",
+      "title": "Not Everyone Is Meant For The Mimbar",
+      "hook": "You're not failing. You're just trying to do a job Allah never assigned you.",
+      "pillar": "mindset",
+      "rationale": "My post 'not every student of knowledge is meant to sit in a chair' got 743 views with zero comments — decent reach, but I left engagement on the table by not making it personal to the viewer. This is a strong, unique mindset angle nobody else in my competitor set touches (they're all secular high-agency content). It's a gap I own.",
+      "script": "You're not failing. You're just trying to do a job Allah never assigned you.\n\nNot every student of knowledge is meant to sit in a chair and give dars. Not everyone climbs the mimbar. Not everyone writes the books or leads the prayer.\n\nAnd somewhere along the way we decided there's only one shape of contribution, so everyone who isn't standing at the front feels useless.\n\nThe Ummah doesn't run on scholars alone. It runs on the builder, the earner, the one who shows up quietly and does the unglamorous thing well.\n\nStop measuring your worth against a role that was never yours. Find the one that is, and go be excellent at it.",
+      "visuals": {
+        "setting": "Warmer, personal setting — softer light, home or masjid-adjacent backdrop. Lower, reassuring energy than the callout videos. This one is comfort with a spine.",
+        "visualHook": "On-screen text 'You're not failing.' held in silence for one beat before you speak.",
+        "otherHookIdeas": [
+          "Cold open looking slightly off-camera then turning to lens on 'a job Allah never assigned you'",
+          "Text overlay cycling roles — 'Scholar. Imam. Author.' — then 'or none of these' as a reframe",
+          "Whisper-to-normal delivery: start quiet on the first line to force the viewer to lean in"
+        ]
+      }
+    },
+    {
+      "title": "The Fear Isn't The Speaking",
+      "hook": "You're not scared of public speaking. You're scared of being seen getting it wrong. Different problem, different fix.",
       "pillar": "public speaking",
-      "rationale": "Public speaking is a named pillar but barely represented in your top posts. 'How to speak' breakdowns are consistently pulling for lifeofdinoo. This tackles a universal fear (speaking up) with your blunt reframe — a clear gap and a proven format.",
-      "script": "You're not shy. You just walked in with nothing to say. There's a difference between fear and being unprepared, and most people confuse the two. You freeze in the meeting, in the halaqah, in the group chat, and you tell yourself 'I'm just an introvert.' No. You didn't think about the topic before you got there. Confidence isn't a personality trait, it's a byproduct of preparation. The people you think are 'naturally good speakers' rehearsed that line in the shower. So do the boring work. Know your three points before you enter the room. Say them out loud once. That's the whole secret nobody will sell you a course on.",
+      "rationale": "I have almost no dedicated public speaking how-to content, yet it's one of my three pillars. lifeofdinoo_'s small talk and communication breakdowns prove there's appetite for tactical speaking content in this niche. This gives practical value while keeping my blunt diagnostic tone.",
+      "script": "You're not scared of public speaking. You're scared of being seen getting it wrong. Different problem, different fix.\n\nEveryone thinks they need more confidence. You don't. Confidence comes after, not before. What you need is reps in front of people who don't matter to your ego.\n\nHere's the thing nobody tells you — the shake in your voice, the blank moment, the pause? The room forgets it in ten seconds. You replay it for ten years.\n\nThe fluent speaker isn't fearless. He's just embarrassed himself enough times that it stopped being a threat.\n\nSo stop rehearsing in your head. Go say it out loud, badly, in front of someone. That's the whole method.",
       "visuals": {
-        "setting": "Get-ready or desk setting, slightly more energy. Casual. Can film half mid-action (grabbing a jacket, walking into a room) to match the 'walked in' line.",
-        "visualHook": "Cold open mid-action: you walking through a doorway, freeze frame, on-screen text 'nothing to say'.",
+        "setting": "Standing, mid-energy, gesturing naturally — practice what you preach, look like a speaker. Neutral backdrop, room to move.",
+        "visualHook": "On-screen text 'It's not the speaking' appears, then glitches/cuts to 'it's being SEEN' as you deliver the correction.",
         "otherHookIdeas": [
-          "Pattern interrupt: awkward silence on camera for 2 seconds, then 'that's you in every meeting'",
-          "On-screen text: 'introvert ≠ excuse'",
-          "Direct-to-camera whisper of the hook then normal volume"
+          "Cold open mid-gesture as if you're already coaching someone off-screen",
+          "Deliberately fumble a word in the first two seconds, then say 'see — you already forgot that' as a meta hook",
+          "Split text overlay: 'What you think the problem is' vs 'what it actually is'"
         ]
       }
     },
     {
-      "title": "Refute less, build more",
-      "hook": "Never a boring day in the Ummah when you lot don't fail to show me how dumb you can be.",
+      "title": "High Agency Is Just Refusing To Wait",
+      "hook": "Everyone's selling you 'high agency' like it's a personality. It's not. It's a decision you make when you're tired of waiting to be picked.",
       "pillar": "mindset",
-      "rationale": "This exact line was a real post of yours (1,003 views). Your critique/refutation content clearly performs, but you even admitted 'I didn't want to make this account a refutation page.' Turn the energy inward — a mindset piece about the trap of only ever tearing down. Keeps the voice and engagement driver but redirects toward growth, filling your mindset gap.",
-      "script": "Never a boring day in the Ummah when you lot don't fail to show me how dumb you can be. But let me be honest with myself for a second too. It's easy to build a whole platform on refuting other people. It gets views. It feels productive. It's also lazy. Any fool can point at what's broken. The harder thing — the thing almost nobody's doing — is building something worth pointing at. Correcting a wrong is a duty, fine. But if the only thing you've ever produced is a takedown of someone else's work, you haven't led anything. You've just commentated. Ask yourself what you've actually built this year. If the answer's nothing, the problem was never them.",
+      "rationale": "birdtart01 explicitly teased a 'how to develop high agency' video and it's clearly a hot term in this niche (57k views on the post mentioning it). It's a gap for me and lets me do what I do best — cut through hype with a blunt reframe, from an Islamic lens of tawakkul plus action.",
+      "script": "Everyone's selling you 'high agency' like it's a personality trait. It's not. It's a decision you make when you're tired of waiting to be picked.\n\nLow agency isn't laziness. It's the quiet belief that someone else is coming to fix it. The manager, the scholar, the government, the algorithm. Someone.\n\nNobody's coming. That's not despair, that's freedom.\n\nOur deen never taught you to sit and wait. Tie your camel, then trust. The tying is your job. You do the human part fully, then you leave the outcome.\n\nHigh agency is just that, minus the branding. Do the thing you keep hoping someone else will do for you.",
       "visuals": {
-        "setting": "Simple, honest setup — desk or plain wall. Lower energy, more reflective, like you're being straight with yourself and the viewer. Direct eye contact.",
-        "visualHook": "Open on the blunt line as bold on-screen text while you deliver it deadpan, then soften.",
+        "setting": "Direct, plain, punchy. Closer crop, sharper energy. This is a myth-busting video so keep it fast and clean, minimal background.",
+        "visualHook": "On-screen text 'high agency' in a trendy font, then a big red X slashes across it as you say 'it's not a personality.'",
         "otherHookIdeas": [
-          "Pattern interrupt: start hyped/critical, then drop tone completely at 'let me be honest with myself'",
-          "On-screen text mid-video: 'you commentated. you didn't build.'",
-          "Cold open: 'This one's aimed at me too.'"
+          "Cold open: 'Nobody's coming.' said flat first, then rewind into the full hook",
+          "Pattern interrupt — mimic scrolling motivational content, then stop dead and correct it",
+          "Text overlay 'tie your camel' with the twist landing on 'the tying is YOUR job'"
         ]
       }
     },
     {
-      "title": "Character before influence",
-      "hook": "You want influence before you've built the character to survive it.",
+      "title": "You Confuse Being Blunt With Being Right",
+      "hook": "Being harsh isn't the same as being honest. A lot of you online need to hear that.",
       "pillar": "leadership",
-      "rationale": "Your Prophetic-leadership post (Al-Qawi wal-Ameen, 508 views, 58 likes) had strong like-to-view ratio — the leadership pillar resonates when tied to real Islamic framework. birdtart's top post is literally about character ('cautious with my character', 238k views). Character content is peaking across the niche right now. This merges both.",
-      "script": "You want influence before you've built the character to survive it. That's why so many people crumble the second they get it. We chase the platform, the followers, the title — and we skip the boring part where you become someone who can actually handle it. The prophetic model of leadership is two words: Al-Qawi wal-Ameen. Competent and trustworthy. Notice the order people ignore — trustworthy is the part that holds when the competence gets tested. Anyone can be impressive for a week. Character is what's left when it's inconvenient to keep your word. So before you ask how to grow your reach, ask whether the person you are right now deserves it. Fix that first. The rest follows.",
+      "rationale": "This is self-aware and on-brand — my whole voice is 'blunt but articulate,' and my callout videos ('never a boring day in the Ummah when you guys don't fail to show me how dumb you can be') get engagement precisely because of tone. Turning that lens onto how people communicate makes it a leadership/character lesson instead of just a dunk, which broadens it beyond my usual political posts.",
+      "script": "Being harsh isn't the same as being honest. A lot of you online need to hear that.\n\nYou've watched a few people 'speak their mind' and go viral, so now you think cruelty with confidence is a virtue. It isn't. It's just laziness dressed as courage.\n\nReal directness costs you something. It means saying the hard thing to someone's face, privately, in a way that could actually change them — not performing it for an audience that already agrees with you.\n\nThe Prophet, peace be upon him, was the most truthful man alive and also the gentlest. Those two things lived in the same person. That's the standard.\n\nSay the truth. Say it plainly. But if your 'honesty' only ever makes you look good and the other person look small, check your intention.",
       "visuals": {
-        "setting": "Clean, slightly more composed frame — bookshelf or neutral backdrop. Calm authority, older-brother tone. Minimal gestures.",
-        "visualHook": "On-screen text 'AL-QAWI WAL-AMEEN' appears with the two words separating on screen as you define them.",
+        "setting": "Calm, controlled, seated — deliberately the opposite of aggressive to prove the point. Steady eye contact, measured pace. Let the content be the edge, not the volume.",
+        "visualHook": "On-screen text 'Harsh ≠ Honest' on a clean first frame, held for a beat in silence.",
         "otherHookIdeas": [
-          "Cold open: 'Most people who get influence lose themselves.'",
-          "On-screen text punchline: 'character = what's left when it's inconvenient'",
-          "Pattern interrupt: hold up a phone showing follower count, then set it face-down"
-        ]
-      }
-    },
-    {
-      "title": "Stop asking if you're allowed",
-      "hook": "Half of you are waiting for permission that's never coming.",
-      "pillar": "mindset",
-      "rationale": "High-agency/mindset content is birdtart's lane and it's exploding (14k+ likes on the high agency post). Your mindset pillar is thin. This is your blunt take on agency — the reframe none of the soft accounts will say directly, which is your differentiator.",
-      "script": "Half of you are waiting for permission that's never coming. Waiting for someone older, someone with a title, someone 'qualified' to tap you on the shoulder and say 'yes, now you can start.' It doesn't work like that. Nobody handed the people you admire a licence. They just started, badly, and got less bad. You're treating your life like there's a gatekeeper at every door when most of those doors were never locked — you just never pushed. The permission you're waiting for is you deciding you're serious. That's the whole thing. Stop asking. Start, look stupid for a bit, and improve in public. That's how everyone who's ahead of you got there.",
-      "visuals": {
-        "setting": "More movement — walking, or standing with energy. Casual, direct. Slightly faster pacing to match the push of the message.",
-        "visualHook": "On-screen text 'waiting for permission?' over you standing still, then you start walking as the line lands.",
-        "otherHookIdeas": [
-          "Cold open: 'Nobody's coming to tell you you're ready.'",
-          "Pattern interrupt: mime knocking on a door, then push it open",
-          "On-screen text punchline: 'the door was never locked'"
+          "Cold open pointing at camera on 'a lot of you need to hear that'",
+          "Text overlay contrast: 'Performing honesty' vs 'Being honest' side by side",
+          "Lower the delivery to almost quiet on the last line to model the gentleness you're describing"
         ]
       }
     }
@@ -101,28 +101,28 @@
   "postSuggestions": [
     {
       "postUrl": "https://www.instagram.com/p/DY45aS-sL8X/",
-      "whatsWorking": "Your best post ever at 6,134 views — 2-3x your next best. The timely, blunt stance on protests ('can't believe we're still discussing') tapped urgency and a shared frustration your audience already feels. This proves your reach spikes when you take a clear position on something live in the Ummah rather than posting evergreen reminders.",
-      "whatToImprove": "Only 15 comments for 6k views and 211 likes — the take was strong but closed. It stated a conclusion instead of leaving a question people had to answer. End on a direct challenge ('what have you actually done besides criticise?') to convert reach into the comment volume the algorithm rewards."
+      "whatsWorking": "This is your best post by a distance — 6,134 views, 211 likes. The hook 'Can't believe we're still discussing the necessity of protests in 2026' works because it drops the viewer straight into an ongoing argument with a clear stance and a time stamp. The tension is immediate and it's unmistakably your voice.",
+      "whatToImprove": "Comments (15) lagged well behind likes (211) — people agreed but didn't feel pulled to respond. End the video on a direct question or a line that forces a side ('name one excuse that holds up'). You're great at declaring; give people something to answer."
     },
     {
-      "postUrl": "https://www.instagram.com/p/DZ-DNc7sF-y/",
-      "whatsWorking": "827 views but 24 comments — one of your highest comment-to-view ratios. 'Don't let sectarianism blind you' hit a genuinely divisive nerve and forced people to take sides, which is exactly what drives conversation. This shows courage on internal-community topics pays in engagement.",
-      "whatToImprove": "Only 42 likes against 24 comments suggests it read as combative more than resonant — people argued but didn't endorse. Add one line of shared ground before the challenge so viewers feel understood, not just provoked. That converts arguers into sharers."
-    },
-    {
-      "postUrl": "https://www.instagram.com/p/DatCz6eMZwE/",
-      "whatsWorking": "'Not every student of knowledge is meant to sit in a chair' is a genuinely strong, original leadership idea in your actual niche — 733 views proves people are receptive to role-clarity content, not just political takes.",
-      "whatToImprove": "Zero comments. The post named a problem but never gave the viewer a next step or a reason to respond. It needs a payoff — tell them what their lane could be, then ask 'what's yours?'. Right now it ends where it should be getting started. This is the clearest example of a good idea left half-built."
+      "postUrl": "https://www.instagram.com/p/DU3iguCjJIF/",
+      "whatsWorking": "463 views but 24 comments — one of your highest comment-to-view ratios. The hadith about the believers as one body clearly moved people to respond. Scripture-led content earns depth of engagement even when reach is modest.",
+      "whatToImprove": "The caption buries the hook in a long quote before any of your own voice appears. Lead with your take, then bring the hadith as backup. Your reach dies when the first line is a citation instead of a punch — put the sharp older-brother line first, the source second."
     },
     {
       "postUrl": "https://www.instagram.com/p/DaobN2ZMqLQ/",
-      "whatsWorking": "459 views on a public speaking topic — one of your named pillars that's barely represented. The core insight ('articulate is who everyone understands, not who uses fancy words') is sharp, contrarian, and completely in your voice.",
-      "whatToImprove": "17 likes and 0 comments is your weakest ratio here — the idea was stated as a one-liner, not developed into a video that earns a save. This is a full teaching topic, not a caption. Expand it (see the 'Articulate isn't fancy words' script) and it can outperform the caption-only version several times over."
+      "whatsWorking": "'The most articulate person isn't the one who can use the most fancy words' is a genuinely strong, quotable public speaking thesis — exactly your pillar. The idea is clean and shareable.",
+      "whatToImprove": "Only 466 views, 17 likes, 0 comments — your weakest engagement here, and it's on-pillar content, which tells you the delivery not the topic failed. The line is a statement, not a hook — there's no tension or 'you.' Reframe it as a callout ('You think using big words makes you sound smart. It makes you sound insecure.') and it'll travel. See video idea one."
     },
     {
-      "postUrl": "https://www.instagram.com/p/DTauCL6jJ8Z/",
-      "whatsWorking": "Highest like-to-view ratio of your leadership posts (58 likes on 508 views). Tying leadership to a concrete Islamic framework — Al-Qawi wal-Ameen — landed with your core audience. When you anchor advice in Prophetic specifics rather than general motivation, people connect harder.",
-      "whatToImprove": "1 comment. It read as a finished lesson with nothing to react to, and referencing '11 Prophetic Qualities' hinted at a list you didn't deliver. Turn it into a series (one quality per post) and end each with 'which one do you struggle with most' — that's a built-in comment driver and repeat-viewer hook."
+      "postUrl": "https://www.instagram.com/p/DatCz6eMZwE/",
+      "whatsWorking": "743 views on a niche religious-mindset topic ('not every student of knowledge is meant to sit in a chair') — solid reach for a reflective piece, and it's a genuinely unique angle none of your competitors touch. This is territory you own.",
+      "whatToImprove": "Zero comments despite decent reach. The message is aimed at 'the student' in the abstract — it never turns to face the viewer. Add a direct 'you' line ('you're not failing, you're doing the wrong job') and a closing prompt. Make the person watching feel personally addressed and named."
+    },
+    {
+      "postUrl": "https://www.instagram.com/p/DZ-DNc7sF-y/",
+      "whatsWorking": "827 views with 24 comments — strong discussion for the reach. 'Don't let sectarianism blind you to the horrors that occurred in our Ummah' is a brave, clear stance that provokes real conversation, which is where your account has an edge.",
+      "whatToImprove": "Likes (42) were low relative to comments — this signals a divisive, possibly draining thread rather than a share-worthy one. When you take heated intra-Ummah positions, add one constructive line about what to do instead, so people have something to rally behind, not just argue over. Give the anger a direction."
     }
   ]
 }
