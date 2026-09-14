@@ -1,99 +1,99 @@
 {
-  "generatedAt": "2026-09-13T10:44:23.705Z",
+  "generatedAt": "2026-09-14T11:05:25.613Z",
   "videoIdeas": [
     {
-      "title": "Why young Muslims can't hold a conversation anymore",
-      "hook": "The amount of people who can't string a sentence together in person is genuinely alarming.",
+      "title": "You can't string a sentence together",
+      "hook": "Half of you can write a paragraph but freeze the second someone asks you to speak in a room.",
       "pillar": "public speaking",
-      "rationale": "You already tested this exact idea (Aug 2 post, 635 views) but buried it in a long caption and no clear payoff. It's on-pillar, it's a real problem your audience feels, and short punchy 'diagnosis' videos are exactly what lifeofdinoo_ is winning with. Reframe it from a complaint into a fixable skill and it travels further.",
-      "script": "The amount of people who can't string a sentence together in person is genuinely alarming. And before anyone gets defensive — this isn't about being an introvert. Introverts can still speak. This is about a generation that has outsourced every conversation to a screen. You can craft the perfect message over text because you get thirty seconds to think. Real life doesn't give you thirty seconds. Someone asks you a question at the masjid, at an interview, at a dinner, and you freeze — because you've never practised thinking and talking at the same time. Here's the fix, and it's boring: talk to people out loud, badly, on purpose. Order your own food. Ask the shopkeeper a question. Speak in the halaqah even when your point isn't perfect. Fluency isn't a gift. It's reps. You're not shy. You're just untrained.",
+      "rationale": "Your own post on people struggling to string a sentence together (635 views, 0 comments) proved the topic lands but died on delivery — no payoff, no format. lifeofdinoo_ and doctordaanish are winning with clean, teachable single-point videos. This turns your throwaway observation into a proper public speaking lesson, which is a pillar you barely post.",
+      "script": "Half of you can write a full paragraph online but freeze the second someone asks you to speak in a room. And it's not shyness. It's that you've never actually practised talking to a human who isn't behind a screen.\n\nHere's the thing nobody tells you: speaking well isn't a gift. It's a muscle. And you've let it go soft.\n\nStart small. When the cashier asks how your day was, give an actual sentence, not a grunt. In a group, be the one who finishes their point instead of trailing off into \"you know what I mean.\" Because they don't know what you mean. That's the whole problem.\n\nYou don't need to be a public speaker. You need to be someone who can be understood. Fix that first.",
       "visuals": {
-        "setting": "Plain wall or car front-seat, natural light, one clean take, minimal energy — you're stating facts, not performing. Casual, sharp older-brother framing, chest-up.",
-        "visualHook": "On-screen text appears word by word as you say the first line, then a hard cut to you mid-sentence — no intro, no 'assalamualaikum'.",
+        "setting": "Handheld or tripod, indoors, casual — hoodie or plain jumper, plain wall or a café corner. Calm, unbothered energy, talking to camera like it's one person across the table.",
+        "visualHook": "On-screen text \"you type like this 👆 but talk like this 👇\" while you sit silent for the first second, then start.",
         "otherHookIdeas": [
-          "Cold open on a shot of a phone screen with a typed message being deleted and retyped, then cut to your face saying the line",
-          "Pattern interrupt: start with 'You're not shy —' pause '— you're untrained.' as the opening frame",
-          "On-screen text punchline pinned the whole video: 'Fluency is reps, not a gift'"
+          "Cold open mid-sentence: start on \"...and then you freeze\" before rewinding to the point",
+          "Pattern interrupt: hold up your phone, then put it face-down on the table as the first move",
+          "On-screen caption of a mumbled real sentence with the words breaking apart"
         ]
       }
     },
     {
-      "title": "The 3 things that decide if you can actually lead",
-      "hook": "Everyone wants to lead. Almost nobody wants to be trustworthy when no one's clapping.",
+      "title": "Fixers vs deciders",
+      "hook": "We have plenty of people who can fix the thing. We have almost nobody who can decide whether the thing should exist.",
       "pillar": "leadership",
-      "rationale": "Your Prophetic leadership post (Jan 12, 508 views, 58 likes) had strong retention-to-like ratio — the idea resonates but the delivery was static. Listicle/framework videos are dominating right now (doctordaanish's '5 careers', birdtart's LinkedIn series). Turn Al-Qawi wal-Ameen into a tight 3-point framework and it becomes saveable.",
-      "script": "Everyone wants to lead. Almost nobody wants to be trustworthy when no one's clapping. The Prophetic standard for leadership is two words — Al-Qawi wal-Ameen. Strong and trustworthy. Competent and honest. Notice the order people ignore. We chase influence, then hope character catches up later. The model reverses it. First: are you actually good at the thing? Charisma without competence is just noise. Second: can people trust you with something small when there's no reward? Because if you'll cut corners on the small thing, you'll drown in the big one. Third: do you serve the people, or do you use them for status? Leadership in Islam was never a promotion. It was a burden most companions were terrified to take. So before you ask for the platform, ask if you'd still do the work if the platform never came. That's your answer.",
+      "rationale": "Your 'green/white paper' post (789 views) already used this exact line and outperformed most of your leadership content. It's a genuinely sharp idea buried in a long caption — extract it, say it out loud, and give it a clean structure. Leadership is a core pillar you rarely post directly.",
+      "script": "We have plenty of people who can fix the thing. We have almost nobody who can decide whether the thing should exist in the first place.\n\nEveryone wants to be the doctor, the engineer, the coder. Good. We need those. But those are all people executing a decision someone else made. Someone decided the hospital gets built here and not there. Someone decided which problem gets funded.\n\nThat's leadership. It's not being the loudest in the room. It's being the one who can sit with an ambiguous question — should we even do this — and give an answer you'll be held to.\n\nAnd every uncle has an opinion on your degree. None of them have ever read the paper that decided your degree gets funding. Learn the difference. Then decide which side of it you want to be on.",
       "visuals": {
-        "setting": "Slightly more composed setup — desk or bookshelf background, calmer tone. This one carries weight, so let the environment feel considered, not casual. Warm light.",
-        "visualHook": "On-screen text: 'Al-Qawi wal-Ameen' in Arabic + English fades in over your first line before cutting to you.",
+        "setting": "Slightly more composed — desk, bookshelf, or a smart-casual look. Measured, deliberate delivery. This is the 'older brother explaining something serious' setting.",
+        "visualHook": "On-screen text splits the frame: \"FIXES THE THING\" vs \"DECIDES THE THING\" as you deliver the first line.",
         "otherHookIdeas": [
-          "Number the three points as bold on-screen text (1/2/3) so it reads as a saveable framework",
-          "Open mid-thought with 'Notice the order everyone ignores...' as a curiosity gap",
-          "Close on a freeze-frame with text: 'Would you do the work if the platform never came?'"
+          "Prop: hold a document/paper, tap it as you say 'nobody's read the paper'",
+          "Cold open on the uncle line for relatability then pull back to the real point",
+          "Two-word on-screen punchline 'BE THE DECIDER' at the close"
         ]
       }
     },
     {
       "title": "Overthinking is an addiction to certainty",
-      "hook": "You're not overthinking because you're smart. You're overthinking because you're scared to be wrong.",
+      "hook": "You're not overthinking because you care. You're overthinking because you're addicted to feeling certain before you move.",
       "pillar": "mindset",
-      "rationale": "lifeofdinoo_ pulled 9,366 views with the single line 'Overthinking comes from an addiction to clarity and certainty.' That exact framing is proven in your niche right now, but you can out-write it — deliver it blunter and with a concrete way out, which dinoo didn't. Clear gap: you have almost no pure mindset content.",
-      "script": "You're not overthinking because you're smart. You're overthinking because you're scared to be wrong. That's it. Overthinking is an addiction to certainty — you keep replaying the decision hoping this time it'll feel safe. It never will. Certainty isn't something you find before you act. It's something you build after. Every plan you're waiting to perfect is just fear wearing a suit. The Prophet ﷺ told us to tie the camel and then trust Allah — do the work, take the step, then place your reliance. Not sit in your head running simulations until the opportunity's gone. You don't need more clarity. You need to move with the clarity you already have. Make the decision. Let the results teach you the rest.",
+      "rationale": "lifeofdinoo_ got 9,612 views on nearly this exact one-liner ('Overthinking comes from an addiction to clarity and certainty'). It's a proven-hungry topic in this niche right now. You can take the same insight but deliver it with more edge and a demand instead of a soft observation — that's your differentiator.",
+      "script": "You're not overthinking because you're careful. You're overthinking because you're addicted to feeling certain before you move. And certainty isn't coming. Not before you act. Never has.\n\nYou want a guarantee that the decision won't hurt, won't embarrass you, won't be wrong. That guarantee doesn't exist for anyone, including the people you admire. They just moved with less information than you're demanding.\n\nClarity is not the thing that comes before action. It's the reward for it. You do the thing, badly, and the fog clears a bit. Then you adjust.\n\nSo stop researching. Stop asking six people. You already know enough. Move, and let reality correct you.",
       "visuals": {
-        "setting": "Tight, low-key, evening or dim lighting for an intimate 'real talk' feel. Direct eye contact, slower pace, lower voice. This is the one-to-one advice pillar.",
-        "visualHook": "Full-screen bold text 'ADDICTION TO CERTAINTY' holds for one second, then snaps to your face mid-line.",
+        "setting": "Tighter framing, plain background, low-fi and direct. Intense but controlled — leaning slightly toward the camera. No music or subtle only.",
+        "visualHook": "Freeze-frame on you, on-screen text \"CLARITY IS THE REWARD, NOT THE REQUIREMENT\" for the first 2 seconds before speaking.",
         "otherHookIdeas": [
-          "Cold open: 'Fear wearing a suit.' then rewind to explain what you mean",
-          "Pattern interrupt with a physical beat — you tap your temple on 'running simulations'",
-          "On-screen text builds a two-column contrast: 'You want clarity / You need movement'"
+          "Cold open: 'Stop researching' as the very first words, no setup",
+          "Pattern interrupt: snap fingers on 'the fog clears'",
+          "On-screen text counter ticking 'people you asked: 6' then crossing it out"
         ]
       }
     },
     {
-      "title": "How to open a talk so people actually listen",
-      "hook": "The first ten seconds of your talk decide whether the rest of it matters. Most people waste them saying their name.",
-      "pillar": "public speaking",
-      "rationale": "Public speaking is a named pillar but you've barely made tactical, teach-me content on it — it's your biggest content gap. Practical 'how-to' speaking tips are evergreen and saveable, and this format mirrors what's working for competitors (concrete, numbered, useful). Positions you as the go-to for the skill nobody teaches young Muslims.",
-      "script": "The first ten seconds of your talk decide whether the rest of it matters. And most people waste them saying their name and thanking the organisers. Nobody came for that. Here's how you actually open. One — start with tension, not a greeting. A question they can't answer, or a claim they didn't expect. 'Most of you will forget this talk by tomorrow. I'm going to try and change that.' Now they're paying attention. Two — don't warm up. Amateurs ease in. Say your sharpest line first, not last. Three — talk to one person, not a crowd. Pick a face and speak to them. It kills the shakiness and it makes two hundred people feel spoken to individually. Your intro isn't a formality. It's the audition for their attention. Earn it in the first line or lose the room.",
-      "visuals": {
-        "setting": "Ideally filmed near a lectern, empty hall, or standing rather than sitting — put yourself in the speaking context. Confident, upright energy. If not possible, plain wall standing up, gesturing.",
-        "visualHook": "On-screen countdown timer '00:10' ticking as you say the first line — visualises the stakes instantly.",
-        "otherHookIdeas": [
-          "Cold open mid-demonstration: deliver a bad boring intro, cut, then 'Now watch this' and deliver a sharp one",
-          "On-screen numbered captions (1/2/3) for the three tactics so it's a save-and-rewatch",
-          "Punchline text at the end: 'Earn the room in line one'"
-        ]
-      }
-    },
-    {
-      "title": "We have too many fixers and not enough deciders",
-      "hook": "Every uncle has an opinion on your degree. None of them have read a single policy paper.",
+      "title": "Al-Qawi wal-Ameen: competent AND trustworthy",
+      "hook": "We keep picking leaders who are either good people who can't do the job, or good at the job and can't be trusted. Pick neither.",
       "pillar": "leadership",
-      "rationale": "Your Sept 6 post (785 views) landed this exact idea but the caption was cut off and the point got lost. It's a genuinely original take — the difference between people who can fix the thing and people who decide whether the thing gets built. Re-cut as a clean standalone argument, this is your most distinctive leadership angle and separates you from generic motivation.",
-      "script": "Every uncle has an opinion on your degree. None of them have read a single policy paper. And that's the whole problem with how we think about success. We have plenty of people who can fix the thing — the doctors, the engineers, the ones who make the system run. What we don't have is people who decide whether the thing should exist at all. The people in the rooms where the direction gets set. Our community pours everyone into the same three careers because they're safe, respectable, and easy to explain to the aunties. But safe careers put you in the machine. Leadership means shaping the machine. We don't need another thousand people who can execute someone else's decision. We need Muslims who can sit at the table where the decision is made. Stop optimising for respectable. Start optimising for influence over the direction.",
+      "rationale": "Your Prophetic leadership post (508 views) had one of the highest like-to-view ratios in your lower tier — the idea resonated but the caption-heavy format capped its reach. Reworking it as a spoken two-part framework fits the listicle/framework format doctordaanish is crushing, while keeping the Islamic grounding that's clearly your lane.",
+      "script": "We keep picking leaders who fall into one of two camps. Good people who can't actually do the job. Or people who are excellent at the job but you wouldn't trust them with your wallet.\n\nThe Prophetic model doesn't let you choose one. It's Al-Qawi wal-Ameen. Strong and trustworthy. Competent and honest. Both. Non-negotiable.\n\nBecause competence without trust gives you a talented person who'll sell you out. And trust without competence gives you a lovely brother who runs the whole thing into the ground while everyone's too polite to say it.\n\nSo when you're choosing who leads your MSA, your masjid committee, your team — stop settling for one. And more importantly, build both in yourself before you ask anyone to follow you.",
       "visuals": {
-        "setting": "Confident, slightly assertive framing — this is a challenge to the audience's defaults. Neutral background, sharp casual clothing, steady eye contact. Medium energy building through the video.",
-        "visualHook": "On-screen text: 'FIXERS vs DECIDERS' split-screen style over your opening line.",
+        "setting": "Composed, respectful setting — smart-casual, clean background, maybe near books. Steady, authoritative but warm delivery.",
+        "visualHook": "On-screen text builds a 2x2: 'COMPETENT ✅ / TRUSTWORTHY ❌' etc, filling in as you speak the first line.",
         "otherHookIdeas": [
-          "Cold open on the aunty line — it's relatable and funny, hooks instantly before the pivot",
-          "Pattern interrupt: 'Safe careers put you IN the machine —' pause '— leadership shapes it'",
-          "End freeze-frame text: 'Optimise for influence, not respectable'"
+          "Cold open on the Arabic term with translation appearing underneath",
+          "Hold up two fingers, fold one down on 'both — non-negotiable'",
+          "On-screen text callout 'which one is your masjid committee?' mid-video"
         ]
       }
     },
     {
-      "title": "Character before influence — the order everyone gets wrong",
-      "hook": "You're building a following before you've built a self. That's backwards, and it shows.",
-      "pillar": "mindset",
-      "rationale": "Your best-performing on-pillar idea (the influence-vs-character line, Jan 12) deserves its own dedicated mindset cut, separate from the leadership framework. Reflective mindset content is where dinoo and doctordaanish (journaling video, 22k views) are getting saves. This fills the mindset gap and reinforces your throughline: substance over noise.",
-      "script": "You're building a following before you've built a self. That's backwards, and it shows. Everyone's chasing influence — the audience, the platform, the reach — before they've done any of the quiet work that makes influence safe to hold. And it always leaks. You can feel when someone's persona is bigger than their character. The confidence is loud but there's nothing underneath it. Here's the uncomfortable truth: influence just amplifies whatever you already are. If you're unserious, it magnifies unserious. If you're insecure, a thousand followers won't fix it — they'll expose it faster. So build the private version of yourself first. The one nobody's clapping for. Your prayer, your honesty, your discipline when no one's watching. Get that right and the influence becomes a tool. Skip it, and it becomes a mask you can't take off.",
+      "title": "How to not sound like an idiot in a group chat of real people",
+      "hook": "You've had the same three conversations your whole life and it shows the moment you're put in a room with strangers.",
+      "pillar": "public speaking",
+      "rationale": "Public speaking is your weakest-served pillar and birdtart01 is pulling huge numbers with relatable 'here's how you actually operate socially' content. A practical, slightly uncomfortable how-to on real conversation gives you a format you can turn into a series — and it's a clear gap versus your commentary-heavy feed.",
+      "script": "You've had the same three conversations your entire life. With the same people. And it shows the second you're put in a room with strangers and expected to hold your own.\n\nHere's how you stop being the awkward one in the corner. One: ask a question that isn't 'so what do you do.' Ask what someone's actually working on, or what they're annoyed about lately. People light up when you go past the script.\n\nTwo: shut up and let there be a pause. You don't have to fill every silence. The person who's comfortable with silence looks like the most secure person in the room.\n\nThree: have one opinion ready. Not to argue — to contribute. People remember the person who said something, not the person who nodded.\n\nNone of this is charisma. It's preparation. Do it enough and it stops feeling like a performance.",
       "visuals": {
-        "setting": "Quiet, personal, reflective — dim room or golden hour, slower delivery. This is the vulnerable-but-blunt register. Chest-up, minimal movement, let the words carry it.",
-        "visualHook": "On-screen text: 'Influence amplifies whatever you already are' holds first, then cut to you.",
+        "setting": "Café or communal space, casual, slightly more energetic and conversational — like you're coaching a younger sibling before a event. Can use quick cuts between the three points.",
+        "visualHook": "On-screen text \"POV: you at any event where you don't know anyone\" over a 1-second shot of you standing awkwardly, then cut to you talking.",
         "otherHookIdeas": [
-          "Cold open: 'The confidence is loud but there's nothing underneath.' then explain",
-          "Contrast text overlay: 'Persona > Character = leak'",
-          "Close on text punchline: 'Build the version nobody claps for'"
+          "Number the points with big on-screen '1 / 2 / 3' cards for retention",
+          "Pattern interrupt: mimic the awkward corner-standing pose for a beat",
+          "Punchline text at end 'it's preparation, not charisma'"
+        ]
+      }
+    },
+    {
+      "title": "Every uncle has an opinion on your degree",
+      "hook": "Every uncle and aunty has an opinion on your degree. Not one of them has read a single page of the policy that decides its future.",
+      "pillar": "mindset",
+      "rationale": "This line already lived inside your 789-view post but was buried. birdtart01's biggest hits (70k+) are the strict/immigrant parents angle — this is the same emotional territory but with your sharper, more intelligent framing, which lets you ride a proven format without copying it.",
+      "script": "Every uncle and every aunty at every gathering has a fully formed opinion on what you should study. Medicine, law, engineering, pick one, the rest is a waste.\n\nAnd not one of them has read a single page of the actual policy, the funding, the job market, the thing that will actually decide whether that path is worth it in ten years. Their information is a cousin who did well in 2003.\n\nHere's the thing though — the answer isn't to rebel and do the opposite to prove a point. That's just letting them make the decision backwards.\n\nThe answer is to become the person in the room who actually knows what they're talking about. Read the thing. Understand the field. Then when uncle gives his verdict over the biryani, you smile, and you do what the evidence says. Quietly. Let the results talk.",
+      "visuals": {
+        "setting": "Relatable, homely — could be filmed casually, kitchen or living room energy. Slightly wry, knowing tone. This one can be lighter, almost comedic on the uncle beat then sharp on the payoff.",
+        "visualHook": "On-screen text \"uncle's sources: 🤷 a cousin who did well in 2003\" as the first frame.",
+        "otherHookIdeas": [
+          "Cold open impersonating the uncle's verdict, then break character",
+          "On-screen text 'let the results talk' as the closing punchline",
+          "Pattern interrupt: mime eating biryani on the 'over the biryani' line"
         ]
       }
     }
@@ -101,28 +101,28 @@
   "postSuggestions": [
     {
       "postUrl": "https://www.instagram.com/p/DY45aS-sL8X/",
-      "whatsWorking": "This is your ceiling post — 6,138 views, roughly 5x your usual. The reason is a live, urgent topic (protests in 2026) plus a caption that stakes out a clear side in the first line. You committed to a position instead of hedging, and the algorithm and audience both reward conviction on timely issues.",
-      "whatToImprove": "The caption trails off mid-sentence ('to make themselves feel bett...') — you lost the punchline in a wall of text. Front-load your sharpest single sentence and cut the rest. Also, this reach is your proof that commentary spikes, but it doesn't build the leadership/public-speaking brand — capture these new viewers by pinning a comment pointing them to an on-pillar video."
-    },
-    {
-      "postUrl": "https://www.instagram.com/p/Dc83y8Zs8Fh/",
-      "whatsWorking": "The opening line — 'Every uncle and aunty has an opinion on your degree. None of them have read a green or white Paper' — is your single best hook in the whole set. It's specific, funny, culturally exact, and it sets up a genuinely original leadership argument. This is your voice at its sharpest.",
-      "whatToImprove": "At 785 views the idea underperformed the hook — because the caption gets cut off and the payoff ('few who can decide whether the thing g...') never lands. This deserves a dedicated, fully-scripted re-cut (see the 'fixers vs deciders' idea). Don't let your best original thought die in a truncated caption."
+      "whatsWorking": "This is your all-time top post at 6,138 views — nearly double your next best. The topic (protests in 2026) is urgent and specific, and the caption takes a clear side immediately with no hedging. That decisiveness is exactly your 'blunt older brother' voice and the algorithm rewarded the strong stance with 210 likes.",
+      "whatToImprove": "15 comments on 6k views is a low conversation rate for something this charged. The caption trails off mid-sentence ('feel bett...') — you're leaving the sharpest part unsaid. End captions on a pointed question that forces a reply, e.g. 'Who exactly does staying quiet serve?' to convert viewers into commenters."
     },
     {
       "postUrl": "https://www.instagram.com/p/DbilFRjsJ3v/",
-      "whatsWorking": "You touched a real, felt problem — young people who can't hold a conversation — and it's dead-on your public speaking pillar. The observation is true and the audience knows it, which is why it's worth revisiting.",
-      "whatToImprove": "635 views and zero comments tells you it read as a complaint, not a conversation. You diagnosed the problem but gave no fix and no reason to reply. Add a concrete solution and end on a direct question ('When did you last speak up in a room?'). Complaints get scrolled; complaints with a fix and a prompt get saved and commented."
+      "whatsWorking": "This is your most on-pillar post (public speaking) and the observation is genuinely sharp — people can't hold a conversation anymore. The premise clearly resonates with your niche's self-development angle.",
+      "whatToImprove": "635 views and 0 comments is the tell: you diagnosed the problem but gave no solution and no reason to reply. This is the idea to rebuild as a proper how-to (see the group-conversation script). Turn every 'this is a problem' post into a 'here's the fix, 1-2-3' format — that's what doctordaanish and lifeofdinoo_ are winning with."
+    },
+    {
+      "postUrl": "https://www.instagram.com/p/Dc83y8Zs8Fh/",
+      "whatsWorking": "789 views on a leadership/policy idea, and the 'fixers vs deciders' concept is one of your most original insights — genuinely differentiated from anything competitors are posting. The uncle line makes an abstract point relatable.",
+      "whatToImprove": "The strongest idea (fixers vs deciders) is buried under the uncle hook and the caption cuts off ('whether the thing g...'). Lead with the sharpest line, not the relatable one. Only 4 comments means the payoff didn't provoke — close on a challenge like 'Which one are you training to be?' to pull engagement."
+    },
+    {
+      "postUrl": "https://www.instagram.com/p/DZ-DNc7sF-y/",
+      "whatsWorking": "828 views but 24 comments — one of your highest comment counts, and the best comment-to-view ratio in your whole set. The line about sectarianism blinding people clearly struck a nerve and got people talking. That's valuable signal: this topic drives conversation.",
+      "whatToImprove": "Likes (42) are low relative to comments, which often means the comments are arguing, not agreeing. Fine for reach, but make sure the video itself gives a clear thesis so the debate is on your terms, not a free-for-all. Pin a comment restating your core point to anchor the discussion."
     },
     {
       "postUrl": "https://www.instagram.com/p/DTauCL6jJ8Z/",
-      "whatsWorking": "Best engagement quality on-pillar — 58 likes on 508 views is a strong like-to-view ratio, meaning the people who watched actually valued it. The Al-Qawi wal-Ameen framing is substantive leadership content that separates you from motivational filler. This is the direction your brand should lean into.",
-      "whatToImprove": "The views are low because it was delivered as a static quote/carousel-style point rather than a hook-driven video. Reframe it as a spoken 3-point framework with a tension-based opening line (see the leadership idea) and number the points on screen so it becomes saveable. The idea is strong; the packaging capped its reach."
-    },
-    {
-      "postUrl": "https://www.instagram.com/p/Dbwq4JosFxD/",
-      "whatsWorking": "'Young British Muslims are creating third spaces' is a positive, forward-looking angle — a refreshing break from refutation content, and the caption is well-structured with clean line breaks that are actually readable. This is the constructive, community-building side of your leadership pillar.",
-      "whatToImprove": "931 views with only 3 comments — it informed but didn't provoke a response. Positive framing is good, but give people something to do or debate: name a specific space, tag the people building them, or ask 'what's missing from these spaces?' You've noticed you can drift into refutation ('I didn't want to make this a refutation page'); lean this constructive angle harder, but engineer it for interaction."
+      "whatsWorking": "58 likes on only 508 views is your best like-to-view ratio in the leadership pillar — the Al-Qawi wal-Ameen framework deeply resonated with the people who saw it. When you ground leadership in the Prophetic model, your audience clearly values it.",
+      "whatToImprove": "The reach (508) is your problem, not the resonance. The caption reads like a carousel infographic ('📖 11 Prophetic Qualities...') rather than a hook that stops a scroll. Rework this as a spoken 2-part framework video (competent AND trustworthy) with a bold opening line, so the strong resonance actually reaches more people."
     }
   ]
 }
