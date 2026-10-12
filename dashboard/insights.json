@@ -1,123 +1,128 @@
 {
-  "generatedAt": "2026-10-11T11:42:07.752Z",
+  "generatedAt": "2026-10-12T13:39:58.194Z",
   "videoIdeas": [
     {
-      "title": "Tariq bin Ziyad burned the ships",
-      "hook": "In 711, a man burned his own escape route in front of his entire army. Then he won.",
-      "pillar": "leadership",
-      "rationale": "Your best-performing original content is Islamic history (the Andalusia post hit 437 views, your top). Nobody else in your competitor set is doing leadership lessons through history — it's your lane and the data proves it lands. Lead with the story, pull the leadership principle out of it.",
-      "script": "In 711, a man burned his own escape route in front of his entire army. Then he won. Tariq bin Ziyad crossed into Spain with a few thousand men against an army many times his size. His soldiers looked back at the ships that brought them — the only way home. So he burned them. Not because he was reckless. Because he understood something about people most leaders never will: men fight differently when retreat isn't an option. He didn't give a motivational speech about believing in yourself. He removed the option of failure. That's leadership. Not hyping people up — restructuring the situation so the only way out is forward. Ask yourself where your own 'ships' are. The backup plan you keep looking at. The exit you've mentally reserved. Sometimes the reason you're not moving forward is that going back still feels possible.",
-      "visuals": {
-        "setting": "Dark, moody indoor setup or against a plain wall, dim warm lighting. Plain dark top. Low, deliberate energy — you're telling a story, not performing it. Tight framing, chest up.",
-        "visualHook": "On-screen text '711 AD' slams onto the screen over a close, serious face as you say the first line — no smile, slow delivery.",
-        "otherHookIdeas": [
-          "Cold open on just the words 'He burned the ships' with a hard cut to your face",
-          "Start mid-sentence with '...so he burned them' then rewind to explain",
-          "Overlay an old map of the Strait of Gibraltar for the first 3 seconds"
-        ]
-      }
-    },
-    {
-      "title": "Stop memorizing your speech",
-      "hook": "If you memorize your speech word for word, you've already lost.",
+      "title": "5 phrases that make you sound weak in a room",
+      "hook": "Stop apologising for taking up space. Here are 5 phrases killing your authority.",
       "pillar": "public speaking",
-      "rationale": "You have zero pure public-speaking content in your top posts despite it being a core pillar. Daanish's listicle/teaching format (5 careers, journaling) is pulling huge numbers — practical, teachable, saveable content wins right now. Fill your own gap with a concrete skill.",
-      "script": "If you memorize your speech word for word, you've already lost. Here's why. The moment you forget one line, your brain stops listening to the room and starts searching for the next word. You're no longer present — you're retrieving. The audience feels it instantly. You go from a person talking to a person reciting. Instead, memorize three things: your opening line, your closing line, and the three points in between. That's it. The opening so you start strong instead of mumbling. The closing so you land instead of trailing off. And the three points as anchors you speak around, not from. Everything in between should sound like you're figuring it out with them in real time — because that's what makes people lean in. Fluency isn't knowing every word. It's knowing where you're going.",
+      "rationale": "Listicle 'X things' videos are carrying @doctordaanish right now (160k and 30k on '5 careers' / '5 specialties'). You have zero structured listicle content. A numbered, screenshot-able public speaking list is the single easiest format gap to close in your feed.",
+      "script": "Stop apologising for taking up space. Five phrases that make you sound weak the second they leave your mouth. One: 'Sorry, can I just add something.' You don't need permission to speak. Say your thing. Two: 'This might be a stupid question.' Now you've told everyone to take you less seriously before you even asked it. Three: 'I feel like.' You either know or you don't. 'I think' is fine. 'I feel like' is a hedge. Four: 'Does that make sense?' after every point. It makes you sound like you don't trust your own words. Pause. Let them sit with it. Five: 'Just.' 'I just wanted to check.' 'I just think.' Delete it. Every time. You're not smaller than the room. Stop talking like you are.",
       "visuals": {
-        "setting": "Clean, brighter setup — standing, slightly wider frame so hand gestures show. Smart-casual. Confident, slightly faster energy than the history piece. Could be filmed as if backstage or near a lectern/mic.",
-        "visualHook": "On-screen text 'STOP memorizing your speech' with a hard red cross animation over the word 'memorizing' in the first second.",
+        "setting": "Plain wall or office setting, sitting or standing, smart-casual (shirt, no jacket). Calm, direct energy — low movement, steady eye contact to lens. Not hyped.",
+        "visualHook": "Bold on-screen text '5 PHRASES THAT MAKE YOU SOUND WEAK' with a counter (1/5, 2/5...) ticking in the corner as you speak each one.",
         "otherHookIdeas": [
-          "Cold open of you 'freezing' mid-speech, blank stare, then cut to 'this is why'",
-          "Count up 1-2-3 on screen as you name the three things to memorize",
-          "Pattern interrupt: start whispering the first line so people turn the volume up"
+          "Cold open mid-sentence: start on 'Three:' then cut back to the intro — pattern interrupt",
+          "On-screen text punchline that crosses each phrase out with a red strike as you dismiss it",
+          "Open on a shot of you about to speak in a meeting, freeze-frame, then 'here's what not to say'"
         ]
       }
     },
     {
-      "title": "The networking question that actually works",
-      "hook": "Stop asking people 'so what do you do.' It's the fastest way to be forgotten.",
+      "title": "You don't have a confidence problem, you have a preparation problem",
+      "hook": "You're not shy. You just walked in unprepared and called it anxiety.",
+      "pillar": "mindset",
+      "rationale": "Hot-take, myth-busting single-idea videos are working across the niche (@lifeofdinoo_ 'You can pray and still need help', @saffanabanana media literacy). Your 'Might not be the fastest but I'm in the room' line proves blunt reframes land for you. This reframes public speaking fear as mindset — bridges two pillars.",
+      "script": "You don't have a confidence problem. You walked in unprepared and called it anxiety. Think about the last time you froze — presentation, interview, speaking up. Were you actually nervous, or did you just not know your material well enough to not be? Confidence isn't a personality trait you're born without. It's the quiet feeling of knowing you did the work. The people who look calm in the room aren't braver than you. They rehearsed. They know their first line. They know their numbers. They've already imagined it going wrong. Nerves are just the gap between how much you care and how much you prepared. Close the gap and watch the 'anxiety' disappear. Stop trying to feel ready. Get ready.",
+      "visuals": {
+        "setting": "Walking shot outdoors or a clean desk setup. Natural light. Grounded, slightly slower delivery — this is the 'older brother' sit-down tone.",
+        "visualHook": "On-screen text hard cut: 'IT'S NOT CONFIDENCE' → 'IT'S PREPARATION' while you deliver the opening line straight to camera.",
+        "otherHookIdeas": [
+          "Cold open on you mid-prep (notes, rehearsing to a mirror) before the line lands",
+          "Pattern interrupt: start with 'I'm going to say something you won't like' then the hook",
+          "Text-on-screen question 'nervous or unprepared?' held for a beat before you answer it"
+        ]
+      }
+    },
+    {
+      "title": "What Tariq bin Ziyad understood about leadership",
+      "hook": "He burned his own ships so his men couldn't retreat. That's not madness — that's leadership.",
       "pillar": "leadership",
-      "rationale": "Birdtart's networking-questions video did 975K views — by far the biggest number in your entire competitor set. That's a proven, high-demand topic in this niche with a direct leadership/career angle. There's a clear gap: you're not teaching any practical social or professional skills yet.",
-      "script": "Stop asking people 'so what do you do.' It's the fastest way to be forgotten. Everyone asks it, nobody remembers the answer, and you've just reduced a human being to their job title. Here's what to ask instead. 'What are you working on that you're actually excited about right now.' Watch what happens. People light up, because you've given them permission to talk about the thing they care about instead of the thing on their business card. Then shut up and listen. Don't wait for your turn to talk about yourself — most people are so busy preparing their own line that they never actually hear the other person. The ones who get remembered in a room aren't the ones who talked the most. They're the ones who made someone else feel interesting. Be that person.",
+      "rationale": "Your 711 AD Tariq bin Ziyad post pulled 437 views — history is clearly a lane the audience responds to, and nobody else in your competitor set is doing Islamic history as a leadership teaching tool. Reframe the history you already do through the leadership pillar instead of pure storytelling.",
+      "script": "He burned his own ships so his men couldn't retreat. People call that madness. It's the clearest leadership lesson you'll ever get. 711 AD. Tariq bin Ziyad crosses into Spain, massively outnumbered. First thing he does — orders the boats burned. No way back. Now here's what people miss: he didn't do it to scare his men. He did it to free them. When retreat isn't an option, your mind stops wasting energy on escape and puts everything into the task. Most people fail not because they're not capable — it's because they keep one foot in the exit. A backup plan that quietly becomes the real plan. Real leaders remove their own escape routes first, then everyone else's. Commit like there's no boat. Because half-in has never won anything.",
       "visuals": {
-        "setting": "Filmed in a 'social' environment if possible — a cafe, event space, or busy-looking backdrop. Smart casual, relaxed, approachable energy. Mid frame. Slightly conversational, like you're giving advice across a table.",
-        "visualHook": "On-screen text 'so... what do you do?' with a loud buzzer/wrong-answer X over it as you say the line.",
+        "setting": "Darker, more cinematic setup — plain dark background, moodier lighting, measured delivery. This is a story so slow down and let it breathe.",
+        "visualHook": "Open on the single line 'HE BURNED HIS OWN SHIPS' in white text on black, then cut to you.",
         "otherHookIdeas": [
-          "Cold open mid-handshake, awkward silence, then cut to camera",
-          "On-screen caption that reveals the better question as a 'punchline' at the end",
-          "Split-text format: 'DON'T say this / SAY this' as two cards"
+          "Cold open with just the sound/visual of a flame or water before you start speaking",
+          "On-screen date stamp '711 AD' to signal it's history and stop the scroll",
+          "End-card punchline text: 'commit like there's no boat' for the save/share"
         ]
       }
     },
     {
-      "title": "You can pray and still need help",
-      "hook": "Praying about your problem and doing nothing about it are not the same thing.",
-      "pillar": "mindset",
-      "rationale": "Dinoo's short, punchy two-line format ('You can pray and still need help. Both can be true.') hit 20K+ views — short, declarative mindset truths perform well right now. This also matches your bluntest, most quotable captions. Low production, high shareability.",
-      "script": "Praying about your problem and doing nothing about it are not the same thing. Somewhere along the way people turned tawakkul into an excuse. 'I'm leaving it to Allah' — while refusing to see the doctor, refusing to study, refusing to have the hard conversation. That's not trust. That's avoidance wearing a prayer cap. The man tied his camel first, then trusted Allah. First. He didn't choose one. He did both. Making dua and making moves are not opposites — they're supposed to happen in the same breath. So pray like it depends on Allah. Then work like it depends on you. Anyone telling you to pick one has misunderstood the deen.",
-      "visuals": {
-        "setting": "Simple, honest setup — plain wall, natural light, still frame. Minimal. Calm but firm delivery, not soft. Let the words carry it.",
-        "visualHook": "Bold on-screen text of the full first line typed out word by word in silence before you start speaking.",
-        "otherHookIdeas": [
-          "Two-card format matching Dinoo's style: 'You can pray' / 'and still take action'",
-          "Hold a long pause on your face before the first word as a pattern interrupt",
-          "End on a single text card with the last line for the screenshot/share"
-        ]
-      }
-    },
-    {
-      "title": "Silence isn't neutral",
-      "hook": "When you say nothing about an injustice, you haven't stayed neutral. You've picked a side.",
-      "pillar": "mindset",
-      "rationale": "Your Majid Freeman post pulled 289 likes — your highest like count by far — proving your audience responds hard to conviction and speaking out. Saffana and Dinoo both get massive engagement calling things out. This leans into what already works for you, framed as a mindset/character piece rather than a one-off news post.",
-      "script": "When you say nothing about an injustice, you haven't stayed neutral. You've picked a side — the side of whoever benefits from your silence. The Prophet ﷺ gave us a ladder: change it with your hand, and if you can't, your tongue, and if you can't, at least hate it in your heart. Notice there's no rung that says 'mind your business.' No level where saying nothing is acceptable. We've convinced ourselves that staying quiet is the safe, mature option. It's not maturity. It's comfort. You're protecting your own peace by pretending the problem isn't yours. But the people who move this world forward were never the quiet, agreeable ones. They were the ones who opened their mouths when it cost them something. Use your tongue. That's the minimum, not the maximum.",
-      "visuals": {
-        "setting": "Serious, direct-to-camera, plain dark background. Tight frame. Still. No music or very low. This is a conviction piece — energy is controlled intensity, not shouting.",
-        "visualHook": "Open on total silence for 2 seconds with on-screen text 'Silence is a choice.' then you speak.",
-        "otherHookIdeas": [
-          "Cold open with direct eye contact and the full hook line, no intro",
-          "On-screen text of the three rungs appearing as you name hand / tongue / heart",
-          "Cut the background audio completely for the first line to make 'silence' literal"
-        ]
-      }
-    },
-    {
-      "title": "How to command a room when you walk in",
-      "hook": "The people who command a room aren't the loudest. They're the slowest.",
+      "title": "The real reason you can't speak up in meetings",
+      "hook": "You're not quiet. You're waiting for the perfect moment that doesn't exist.",
       "pillar": "public speaking",
-      "rationale": "Public speaking is an under-served pillar for you, and 'presence' content is a gap no competitor here is filling directly. Daanish's teaching format proves practical, specific how-to content performs — this is the leadership-presence version of that, highly saveable.",
-      "script": "The people who command a room aren't the loudest. They're the slowest. Watch anyone with real presence. They don't rush to fill silence. They don't speak the second a question lands. They pause — and that pause makes everyone wait on them. Speed signals nervousness. Slowness signals control. Three things, quickly. One: slow your walk. People who hurry look like they're answering to someone. Two: slow your speech. The urge to talk fast comes from the fear you'll be interrupted — act like you won't be. Three: hold eye contact one second longer than feels comfortable. That second is where authority lives. You don't command a room by being the biggest voice in it. You command it by being the calmest.",
+      "rationale": "Practical, problem-solution single-point videos consistently outperform in this niche (Daanish journaling 24k, birdtart networking questions 975k). You have strong public speaking authority in your pillars but almost no tactical speaking content in your top posts. This fills that gap directly.",
+      "script": "You're not quiet. You're waiting for the perfect moment to speak, and it's never going to come. Here's what actually happens in a meeting. Someone makes a point. You half-agree. You start building the perfect response in your head. By the time it's polished, the conversation's moved on three times and now it's too late. So you stay silent again and tell yourself you had nothing to add. You had plenty. You just over-cooked it. The fix isn't confidence. It's speed. Have one line ready: 'Can I build on that?' Then say your rough thought out loud before it's perfect. Spoken 70% is worth more than a 100% thought nobody hears. The people who 'always have something smart to say' aren't smarter. They just talk before they talk themselves out of it.",
       "visuals": {
-        "setting": "Walk-and-talk if possible — film yourself entering a space, or standing confidently in an open room. Smart attire. Deliberately slow, grounded movements that demonstrate the point as you make it.",
-        "visualHook": "Slow-motion shot of you walking into frame with on-screen text 'watch the walk' before any words.",
+        "setting": "Office or co-working background, seated, shirt. Slightly higher energy, leaning in. Conversational — like you're pulling someone aside after a meeting.",
+        "visualHook": "On-screen text 'WHY YOU GO SILENT IN MEETINGS' with a visual of a thought bubble filling up then popping.",
         "otherHookIdeas": [
-          "Cold open on a long, deliberate pause making the viewer wait — demonstrate it",
-          "Number each tip on screen 1/2/3 as fast-save value content",
-          "Split-screen: 'rushed' vs 'slow' version of the same entrance"
+          "Cold open mid-action: you raising a hand then lowering it, caption 'every single time'",
+          "Pattern interrupt — whisper the first line, then normal volume",
+          "On-screen countdown '3...2...1... too late' to dramatise the missed window"
+        ]
+      }
+    },
+    {
+      "title": "Burnout isn't a badge, it's a bill",
+      "hook": "You think burnout means you're working hard. It means you're spending something you can't pay back.",
+      "pillar": "mindset",
+      "rationale": "Your Sabr burnout post (209 views) shows the topic resonates but the caption read like an ad. Strip the product and make it a pure mindset piece — burnout is a huge, proven theme across the niche for young Muslims/medics. This reclaims the topic as content, not promotion.",
+      "script": "You think burnout means you're working hard. It doesn't. It means you're spending something you can't pay back. Here's the lie we tell ourselves: push now, rest later. But burnout isn't tiredness you sleep off. It's a debt. You're borrowing energy from a version of you three months from now, and that guy is going to collapse at the exact moment you need him most — exams, deadlines, the big opportunity. The early signs aren't dramatic. You stop enjoying things you used to. Small tasks feel heavy. You're irritable for no reason. That's not weakness, that's the warning light. And you don't fix burnout with one big weekend off. You fix it with small, boring, consistent habits before you need them. Rest isn't the reward for the work. It's part of the work. Protect the guy who has to finish.",
+      "visuals": {
+        "setting": "Softer, calmer setting — home, warm light, hoodie or relaxed shirt. Quieter, honest delivery. No hype whatsoever, this is the sit-down-and-talk tone.",
+        "visualHook": "On-screen text 'BURNOUT = A BILL, NOT A BADGE' over a slow push-in on your face.",
+        "otherHookIdeas": [
+          "Cold open on a phone battery draining to 1% as a metaphor visual",
+          "Pattern interrupt: 'Rest isn't the reward' as the opening line out of order",
+          "List the 3 warning signs as quick on-screen text cards for shareability"
+        ]
+      }
+    },
+    {
+      "title": "Speaking out isn't brave, staying silent is expensive",
+      "hook": "Silence feels safe. It's the most expensive choice you'll ever make.",
+      "pillar": "leadership",
+      "rationale": "Your Majid Freeman post got 289 likes — by far your strongest engagement on a value/conviction piece. @saffanabanana and @lifeofdinoo_ both do hard-stance conviction content that pulls huge numbers. Turn that one-off sidecar into a repeatable talking-head format on moral courage as leadership.",
+      "script": "Silence feels safe. It's the most expensive choice you'll ever make. The Prophet, peace be upon him, said: whoever sees an injustice, change it with your hand, your tongue, or at the very least hate it in your heart. Notice something — doing nothing isn't on the list. Not one of the three options is 'look away.' We've convinced ourselves that staying quiet is the neutral, mature, professional choice. It isn't neutral. Silence always picks a side, and it's never the side of the person being wronged. You don't need a platform of millions. You need a tongue and the willingness to be slightly uncomfortable at dinner, in the group chat, in the room where it's easier to say nothing. Leadership isn't the title. It's being the one who speaks when everyone's hoping someone else will. Be that one.",
+      "visuals": {
+        "setting": "Clean, serious setup — plain background, direct to camera, smart clothing. Calm conviction, not shouting. Weight in the pauses.",
+        "visualHook": "On-screen text 'SILENCE ALWAYS PICKS A SIDE' held before you speak.",
+        "otherHookIdeas": [
+          "Cold open in near-silence for 2 seconds, then the line — literal pattern interrupt",
+          "Text card listing 'hand / tongue / heart' with 'look away' crossed out as a visual",
+          "Lower-third quote styling for the hadith to add gravity and shareability"
         ]
       }
     }
   ],
   "postSuggestions": [
     {
+      "postUrl": "https://www.instagram.com/p/DeW81ftM3K7/",
+      "whatsWorking": "This is your top post for a reason — 759 views, 103 likes, a 13.6% like-to-view rate which is outstanding. The caption 'Might not be the fastest in the room. But I am in the room' is your voice at its best: blunt, rhythmic, a mindset reframe disguised as a running caption. It's screenshot-able and quotable.",
+      "whatToImprove": "The post performs on personality and relatability, not your niche — nothing ties 'in the room' back to leadership, speaking, or mindset explicitly. Add a second line or on-screen text that bridges it ('Same with every room you're scared to walk into') so new followers understand what your account is actually about and stick around."
+    },
+    {
       "postUrl": "https://www.instagram.com/p/DV00SuZiOOw/",
-      "whatsWorking": "This is your top post for views (437) and it's no accident — Islamic history storytelling is clearly your strongest lane and completely differentiates you from the competitor set. The caption opens with a vivid, specific, almost unbelievable hook ('Christians were begging Muslims to come liberate them') that forces a double-take.",
-      "whatToImprove": "Zero comments despite 437 views means you never asked anything of the viewer. End the caption with a pointed question or a leadership lesson that invites debate ('Would your people welcome you the way Andalusia welcomed Tariq?'). Also, the caption is cut off mid-sentence ('wasn't built t') — tighten it so the payoff isn't lost."
+      "whatsWorking": "437 views and the strongest proof that Islamic history is a genuine lane for you — nobody in your competitor set does this. The cold, factual opening ('In 711 AD, Christians were begging Muslims to come and liberate them') is a strong scroll-stopper that teaches before it preaches.",
+      "whatToImprove": "Zero comments despite the views means it informed but didn't provoke a response. End with a question or a modern-day takeaway ('What would you have done in Tariq's position?') and reframe the history toward a leadership lesson so it ladders into your pillars instead of sitting as a standalone story."
     },
     {
       "postUrl": "https://www.instagram.com/p/DdhomWBiP8K/",
-      "whatsWorking": "Your second-highest views (369) and your best comment count (5) and likes (45) — proof that personal, relatable, human moments pull your audience in harder per-view than your polished content. The casual, funny caption ('Never running through a park at night ever again 😭') feels real and sparks replies.",
-      "whatToImprove": "This performs on relatability but does nothing for your niche — none of your three pillars show up. Use these personal moments as a Trojan horse: tie the fear/adrenaline back to a mindset point so the engagement actually builds your positioning instead of being a one-off."
+      "whatsWorking": "371 views, 45 likes, and a relatable, human caption — 'Never running through a park at night ever again 😭' shows you can do light, personal content that pulls engagement. This humanises the account between the heavier pieces.",
+      "whatToImprove": "It's pure entertainment with no connective tissue to your niche, so it builds reach but not positioning. Use these lighter posts deliberately — occasionally land a small mindset or discipline beat inside the funny moment so even your 'off-topic' content reinforces who you are."
     },
     {
       "postUrl": "https://www.instagram.com/p/Dbxq8mXMnEN/",
-      "whatsWorking": "Good instinct opening with a universal pain point ('Burnout affects so many of us') and the emoji use breaks up the text well. Naming that it applies beyond medical students was smart — it widens the audience.",
-      "whatToImprove": "209 views with only 21 likes — this reads as a promo for the Sabr app, and audiences scroll past content that smells like an ad. Lead with your own genuine take on burnout for the first half, earn the attention, and only then mention the app. Right now the value and the pitch are tangled together."
+      "whatsWorking": "Burnout is a topic that clearly matters to your audience of young Muslims and students, and you correctly broadened it beyond medics ('whether you're a medical student or not'). The subject is strong and squarely in your mindset pillar.",
+      "whatToImprove": "209 views and 2 comments — your lowest-engaging video here, because it reads like an ad for Sabr, not a Shawon take. Lead with the raw insight, not the product. Make 90% of the video pure value on burnout and mention the app once at the end, if at all. Your audience follows you for your perspective, not a feature list."
     },
     {
       "postUrl": "https://www.instagram.com/p/DXezrM-iABN/",
-      "whatsWorking": "289 likes — by far your highest engagement, which tells you plainly: your audience responds to conviction and speaking out on injustice. Opening with the hadith grounds it in authority and the direct call ('Silence is not an option') matches your blunt voice perfectly.",
-      "whatToImprove": "This was a Sidecar (carousel), not a video — and your entire competitor set's top posts are videos. Only 1 comment despite 289 likes suggests people agreed and moved on without a clear action. Convert this energy into a talking-head video and end with a specific ask (share, tag, a concrete step) so the conviction turns into reach, not just likes."
+      "whatsWorking": "289 likes — by a distance your highest engagement on any post here. This proves conviction content with a clear moral stance and a hadith is where your audience feels you most. The voice is exactly right: direct, principled, no hedging ('Silence is not an option').",
+      "whatToImprove": "It's a Sidecar (carousel), not video, and video is where every number in this data lives — your competitors' entire top-post lists are video. Rebuild this exact message as a talking-head reel. Same conviction, your face, your delivery. You're leaving your single best-performing theme trapped in your weakest format."
     }
   ]
 }
