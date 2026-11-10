@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-09T14:27:42.803Z",
+  "fetchedAt": "2026-11-10T13:51:50.212Z",
   "me": {
     "handle": "shawon_sheikh",
-    "followersCount": 1302,
-    "followsCount": 1354,
+    "followersCount": 1306,
+    "followsCount": 1357,
     "postsCountTotal": 146,
     "postsSampled": 116,
     "cappedSample": true,
@@ -49,7 +49,7 @@
         "timestamp": "2026-10-11T15:16:32.000Z",
         "likesCount": 123,
         "commentsCount": 12,
-        "viewCount": 2764,
+        "viewCount": 2768,
         "engagementProxy": 147
       },
       {
@@ -104,7 +104,7 @@
         "timestamp": "2026-11-04T12:00:04.000Z",
         "likesCount": 71,
         "commentsCount": 3,
-        "viewCount": 1899,
+        "viewCount": 1910,
         "engagementProxy": 77
       },
       {
@@ -148,7 +148,7 @@
         "timestamp": "2026-11-02T12:30:06.000Z",
         "likesCount": 45,
         "commentsCount": 0,
-        "viewCount": 1707,
+        "viewCount": 1717,
         "engagementProxy": 45
       },
       {
@@ -247,7 +247,7 @@
         "timestamp": "2026-10-31T15:57:25.000Z",
         "likesCount": 46,
         "commentsCount": 2,
-        "viewCount": 1171,
+        "viewCount": 1177,
         "engagementProxy": 50
       },
       {
@@ -830,7 +830,7 @@
         "timestamp": "2026-10-26T20:24:29.000Z",
         "likesCount": 15,
         "commentsCount": 1,
-        "viewCount": 418,
+        "viewCount": 420,
         "engagementProxy": 17
       },
       {
@@ -933,6 +933,17 @@
         "engagementProxy": 3
       },
       {
+        "id": "4015903160822619551",
+        "url": "https://www.instagram.com/p/De7WqXJM12f/",
+        "type": "Video",
+        "caption": "Had a conversation today that stuck with me. A brother said real change begins at home. I asked for examples.\n\nHis answer: government engagement will never make us more organised, more united or more ",
+        "timestamp": "2026-10-25T18:37:59.000Z",
+        "likesCount": 11,
+        "commentsCount": 0,
+        "viewCount": 371,
+        "engagementProxy": 11
+      },
+      {
         "id": "3972405174863950446",
         "url": "https://www.instagram.com/p/Dcg0XW3sHJu/",
         "type": "Video",
@@ -944,15 +955,15 @@
         "engagementProxy": 17
       },
       {
-        "id": "4015903160822619551",
-        "url": "https://www.instagram.com/p/De7WqXJM12f/",
+        "id": "4017339758470553888",
+        "url": "https://www.instagram.com/p/DfAdTm9sOEg/",
         "type": "Video",
-        "caption": "Had a conversation today that stuck with me. A brother said real change begins at home. I asked for examples.\n\nHis answer: government engagement will never make us more organised, more united or more ",
-        "timestamp": "2026-10-25T18:37:59.000Z",
-        "likesCount": 11,
-        "commentsCount": 0,
-        "viewCount": 370,
-        "engagementProxy": 11
+        "caption": "Every team has one. First to reply in the group chat, first to say yes, full of ideas at 11pm.\nSo we hand them the lead.\n\nThen the deadlines slip, the quiet ones stop speaking, and nobody knows who's ",
+        "timestamp": "2026-10-27T18:12:55.000Z",
+        "likesCount": 14,
+        "commentsCount": 2,
+        "viewCount": 367,
+        "engagementProxy": 18
       },
       {
         "id": "3987443552391205370",
@@ -962,19 +973,8 @@
         "timestamp": "2026-09-16T12:05:05.000Z",
         "likesCount": 9,
         "commentsCount": 0,
-        "viewCount": 365,
+        "viewCount": 366,
         "engagementProxy": 9
-      },
-      {
-        "id": "4017339758470553888",
-        "url": "https://www.instagram.com/p/DfAdTm9sOEg/",
-        "type": "Video",
-        "caption": "Every team has one. First to reply in the group chat, first to say yes, full of ideas at 11pm.\nSo we hand them the lead.\n\nThen the deadlines slip, the quiet ones stop speaking, and nobody knows who's ",
-        "timestamp": "2026-10-27T18:12:55.000Z",
-        "likesCount": 14,
-        "commentsCount": 2,
-        "viewCount": 362,
-        "engagementProxy": 18
       },
       {
         "id": "3941291861833026489",
@@ -1021,6 +1021,17 @@
         "engagementProxy": 21
       },
       {
+        "id": "3976867463038020647",
+        "url": "https://www.instagram.com/p/Dcwq-MlMKwn/",
+        "type": "Video",
+        "caption": "Mohammed Faris made a point on The Thinking Muslim this week that I cannot get past.\n\n The clock came from the factory. It was designed to measure how much a person produces in an hour.\n\n We then took",
+        "timestamp": "2026-09-01T22:03:16.000Z",
+        "likesCount": 6,
+        "commentsCount": 0,
+        "viewCount": 333,
+        "engagementProxy": 6
+      },
+      {
         "id": "3982428014455694977",
         "url": "https://www.instagram.com/p/DdEbS3pMiaB/",
         "type": "Video",
@@ -1029,17 +1040,6 @@
         "likesCount": 6,
         "commentsCount": 0,
         "viewCount": 332,
-        "engagementProxy": 6
-      },
-      {
-        "id": "3976867463038020647",
-        "url": "https://www.instagram.com/p/Dcwq-MlMKwn/",
-        "type": "Video",
-        "caption": "Mohammed Faris made a point on The Thinking Muslim this week that I cannot get past.\n\n The clock came from the factory. It was designed to measure how much a person produces in an hour.\n\n We then took",
-        "timestamp": "2026-09-01T22:03:16.000Z",
-        "likesCount": 6,
-        "commentsCount": 0,
-        "viewCount": 331,
         "engagementProxy": 6
       },
       {
@@ -1138,7 +1138,7 @@
         "timestamp": "2026-10-10T00:43:20.000Z",
         "likesCount": 4,
         "commentsCount": 0,
-        "viewCount": 264,
+        "viewCount": 265,
         "engagementProxy": 4
       },
       {
@@ -1160,7 +1160,7 @@
         "timestamp": "2026-10-19T23:30:17.000Z",
         "likesCount": 5,
         "commentsCount": 3,
-        "viewCount": 225,
+        "viewCount": 226,
         "engagementProxy": 11
       },
       {
@@ -1219,17 +1219,6 @@
         "engagementProxy": 16
       },
       {
-        "id": "4001571464511521860",
-        "url": "https://www.instagram.com/p/DeIcAu1jIRE/",
-        "type": "Sidecar",
-        "caption": "Victory doesn’t always arrive when we expect it.\n\nSometimes it comes after years of silence.\n\nAfter the headlines disappear.\nAfter the urgency fades.\nAfter we’ve quietly convinced ourselves that nothi",
-        "timestamp": "2026-10-05T23:55:13.000Z",
-        "likesCount": 15,
-        "commentsCount": 0,
-        "viewCount": null,
-        "engagementProxy": 15
-      },
-      {
         "id": "4012366634962232253",
         "url": "https://www.instagram.com/p/DeuyjIxjaO98CB8BTuD_ky_sqpNtFZC4uB95_U0/",
         "type": "Sidecar",
@@ -1237,6 +1226,17 @@
         "timestamp": "2026-10-20T21:23:17.000Z",
         "likesCount": 7,
         "commentsCount": 4,
+        "viewCount": null,
+        "engagementProxy": 15
+      },
+      {
+        "id": "4001571464511521860",
+        "url": "https://www.instagram.com/p/DeIcAu1jIRE/",
+        "type": "Sidecar",
+        "caption": "Victory doesn’t always arrive when we expect it.\n\nSometimes it comes after years of silence.\n\nAfter the headlines disappear.\nAfter the urgency fades.\nAfter we’ve quietly convinced ourselves that nothi",
+        "timestamp": "2026-10-05T23:55:13.000Z",
+        "likesCount": 15,
+        "commentsCount": 0,
         "viewCount": null,
         "engagementProxy": 15
       },
@@ -1297,10 +1297,10 @@
           "type": "Video",
           "caption": "If you’re in your 20s pls save this - part 4 coming soon. \n\n#advice #20s #adviceformen #adviceforwomen",
           "timestamp": "2026-10-20T13:53:51.000Z",
-          "likesCount": 5367,
-          "commentsCount": 78,
-          "viewCount": 90690,
-          "engagementProxy": 5523
+          "likesCount": 5403,
+          "commentsCount": 79,
+          "viewCount": 91135,
+          "engagementProxy": 5561
         },
         {
           "id": "3974391456451510494",
@@ -1308,10 +1308,10 @@
           "type": "Video",
           "caption": "How to fix your brain with journaling 💭\n\nI hope this lands on the right person’s feed, journaling might be the most transformative habit that hardly anyone is using. \n\nIf you have never tried it, don",
           "timestamp": "2026-08-29T11:55:57.000Z",
-          "likesCount": 4123,
+          "likesCount": 4131,
           "commentsCount": 59,
-          "viewCount": 89880,
-          "engagementProxy": 4241
+          "viewCount": 90015,
+          "engagementProxy": 4249
         },
         {
           "id": "4013472388393329474",
@@ -1319,10 +1319,10 @@
           "type": "Video",
           "caption": "Pray for absolutely EVERYTHING.\n\nEvery detail of your life should be connected to Allah and you’ll find more ease and more presence of Allah day to day.\n\n#Islamicreminder #prayer #duaa",
           "timestamp": "2026-10-22T10:00:07.000Z",
-          "likesCount": 7443,
+          "likesCount": 7460,
           "commentsCount": 81,
-          "viewCount": 78821,
-          "engagementProxy": 7605
+          "viewCount": 78999,
+          "engagementProxy": 7622
         },
         {
           "id": "4017271782533914979",
@@ -1330,10 +1330,10 @@
           "type": "Video",
           "caption": "Hijama in Manchester ☘️\n\n@the_healin_hub ← \n\n#Hijama #Manchester #Redlighttherapy",
           "timestamp": "2026-10-27T15:51:07.000Z",
-          "likesCount": 568,
+          "likesCount": 570,
           "commentsCount": 23,
-          "viewCount": 54549,
-          "engagementProxy": 614
+          "viewCount": 54885,
+          "engagementProxy": 616
         },
         {
           "id": "3975792688181277062",
@@ -1341,21 +1341,10 @@
           "type": "Video",
           "caption": "How artistic is this place?⚜️\n\nHidden in the heart of Edinburgh, a beautiful library over 200 years old with preserved architecture, a real library (yes, those are real books!), high ceilings and a to",
           "timestamp": "2026-08-31T10:23:50.000Z",
-          "likesCount": 1483,
+          "likesCount": 1484,
           "commentsCount": 26,
-          "viewCount": 45664,
-          "engagementProxy": 1535
-        },
-        {
-          "id": "3969296367012644480",
-          "url": "https://www.instagram.com/p/DcVxgP8CYaA/",
-          "type": "Video",
-          "caption": "Do this to BOOST your productivity!",
-          "timestamp": "2026-08-22T11:11:56.000Z",
-          "likesCount": 712,
-          "commentsCount": 12,
-          "viewCount": 37389,
-          "engagementProxy": 736
+          "viewCount": 45685,
+          "engagementProxy": 1536
         },
         {
           "id": "4009135769496247904",
@@ -1363,10 +1352,10 @@
           "type": "Video",
           "caption": "New location 👀✈️📍",
           "timestamp": "2026-10-16T10:32:52.000Z",
-          "likesCount": 1471,
+          "likesCount": 1474,
           "commentsCount": 32,
-          "viewCount": 34594,
-          "engagementProxy": 1535
+          "viewCount": 34718,
+          "engagementProxy": 1538
         },
         {
           "id": "3971442663590274995",
@@ -1376,7 +1365,7 @@
           "timestamp": "2026-08-25T10:15:38.000Z",
           "likesCount": 460,
           "commentsCount": 15,
-          "viewCount": 31904,
+          "viewCount": 31913,
           "engagementProxy": 490
         },
         {
@@ -1385,21 +1374,10 @@
           "type": "Video",
           "caption": "Reminder that social media is a highlight reel, you don’t see the realities.",
           "timestamp": "2026-08-27T10:00:11.000Z",
-          "likesCount": 837,
+          "likesCount": 838,
           "commentsCount": 5,
-          "viewCount": 31123,
-          "engagementProxy": 847
-        },
-        {
-          "id": "3968592148571902145",
-          "url": "https://www.instagram.com/p/DcTRYhaCFDB/",
-          "type": "Video",
-          "caption": "The KEY to All of Life's Goodness 🔑",
-          "timestamp": "2026-08-21T11:52:57.000Z",
-          "likesCount": 1230,
-          "commentsCount": 36,
-          "viewCount": 29341,
-          "engagementProxy": 1302
+          "viewCount": 31133,
+          "engagementProxy": 848
         },
         {
           "id": "3971405084270756923",
@@ -1409,7 +1387,7 @@
           "timestamp": "2026-08-25T09:00:13.000Z",
           "likesCount": 521,
           "commentsCount": 33,
-          "viewCount": 29154,
+          "viewCount": 29162,
           "engagementProxy": 587
         },
         {
@@ -1418,10 +1396,10 @@
           "type": "Video",
           "caption": "Struggling to recite? \n\nComment TAJWEED and start working on yours - by far the best decision I made years ago was to start taking classes as an adult.\n\nALSO OPEN TO EXTERNALS. \n\nIf you can go to univ",
           "timestamp": "2026-10-14T16:59:12.000Z",
-          "likesCount": 837,
+          "likesCount": 841,
           "commentsCount": 42,
-          "viewCount": 27336,
-          "engagementProxy": 921
+          "viewCount": 27385,
+          "engagementProxy": 925
         },
         {
           "id": "4019367250940236154",
@@ -1429,10 +1407,10 @@
           "type": "Video",
           "caption": "How to HIDE your journal 📝 \n\nI shouldn’t have to make this video but some households aren’t in the best shape and I think it might help someone. \n\nIf you don’t journal btw, I highly recommend you do ",
           "timestamp": "2026-10-30T13:24:29.000Z",
-          "likesCount": 702,
+          "likesCount": 708,
           "commentsCount": 29,
-          "viewCount": 26026,
-          "engagementProxy": 760
+          "viewCount": 26290,
+          "engagementProxy": 766
         },
         {
           "id": "4014197767644695415",
@@ -1440,10 +1418,10 @@
           "type": "Video",
           "caption": "Comment FOCUS if you’re struggling.\n\nI predict within 5-10 years social media and phone addiction will be a well documented problem in Psychiatry. \n\nPhone addiction is heavily linked to so many mental",
           "timestamp": "2026-10-23T10:10:37.000Z",
-          "likesCount": 785,
+          "likesCount": 792,
           "commentsCount": 207,
-          "viewCount": 26002,
-          "engagementProxy": 1199
+          "viewCount": 26075,
+          "engagementProxy": 1206
         },
         {
           "id": "4025345634736437734",
@@ -1451,10 +1429,10 @@
           "type": "Video",
           "caption": "Halal Fine Dining Sushi in London 🍣\n\nWelcome to @chottomatteldn based in the heart of Soho, an elegant dining experience…lmao you thought this a generic AI generated caption? Listen up.\n\nThe food? It",
           "timestamp": "2026-11-07T19:22:54.000Z",
-          "likesCount": 204,
-          "commentsCount": 4,
-          "viewCount": 24031,
-          "engagementProxy": 212
+          "likesCount": 216,
+          "commentsCount": 7,
+          "viewCount": 25074,
+          "engagementProxy": 230
         },
         {
           "id": "3972177966378588714",
@@ -1464,7 +1442,7 @@
           "timestamp": "2026-08-26T10:35:09.000Z",
           "likesCount": 508,
           "commentsCount": 5,
-          "viewCount": 21432,
+          "viewCount": 21448,
           "engagementProxy": 518
         },
         {
@@ -1473,10 +1451,10 @@
           "type": "Video",
           "caption": "Dr Daanish Mahmood in the hall at the Grand Final: “It just goes to show that even in the UK, we can do things like this.” Full documentary on YouTube · theiic.uk/nqc\n\n#NQC2026 #NationalQuranCompetiti",
           "timestamp": "2026-11-05T10:40:17.000Z",
-          "likesCount": 398,
+          "likesCount": 403,
           "commentsCount": 0,
-          "viewCount": 20753,
-          "engagementProxy": 398
+          "viewCount": 21204,
+          "engagementProxy": 403
         },
         {
           "id": "4010032115512434740",
@@ -1486,7 +1464,7 @@
           "timestamp": "2026-10-17T16:05:05.000Z",
           "likesCount": 258,
           "commentsCount": 3,
-          "viewCount": 16582,
+          "viewCount": 16596,
           "engagementProxy": 264
         },
         {
@@ -1495,10 +1473,21 @@
           "type": "Video",
           "caption": "Self reflection exercise for top performers.\n\n“The unexamined like is not worth living” - you should frequently self reflect and make active changes to your life if you want it to get better\n\nThis pro",
           "timestamp": "2026-10-25T17:00:26.000Z",
-          "likesCount": 372,
+          "likesCount": 374,
           "commentsCount": 2,
-          "viewCount": 15187,
-          "engagementProxy": 376
+          "viewCount": 15233,
+          "engagementProxy": 378
+        },
+        {
+          "id": "4026682634299140661",
+          "url": "https://www.instagram.com/p/DfhpoWIomo1/",
+          "type": "Video",
+          "caption": "DM me if you’d like mentorship. \n\nHere’s part 4 of my advice for your 20s, lmk your thoughts on this set 👀\n\nSave this & share it with your kids 👇🏽\n\n#advice #20s #mentorship",
+          "timestamp": "2026-11-09T15:35:58.000Z",
+          "likesCount": 467,
+          "commentsCount": 20,
+          "viewCount": 12910,
+          "engagementProxy": 507
         },
         {
           "id": "4012929203301423248",
@@ -1508,7 +1497,7 @@
           "timestamp": "2026-10-21T16:02:04.000Z",
           "likesCount": 227,
           "commentsCount": 1,
-          "viewCount": 10979,
+          "viewCount": 11002,
           "engagementProxy": 229
         },
         {
@@ -1519,8 +1508,19 @@
           "timestamp": "2026-11-03T14:54:55.000Z",
           "likesCount": 67,
           "commentsCount": 0,
-          "viewCount": 6691,
+          "viewCount": 7019,
           "engagementProxy": 67
+        },
+        {
+          "id": "4027348043633374882",
+          "url": "https://www.instagram.com/p/DfkA7U3obai/",
+          "type": "Video",
+          "caption": "Is this the Future of Healthcare?🩺\n\nI visited @neko in Manchester for a 1-hour full health scan & medical consultation including: \n\n• AI & Dermoscope Skin Analysis\n• Blood Test (Lipids, RBC/WBC, HbA1",
+          "timestamp": "2026-11-10T13:30:48.000Z",
+          "likesCount": 71,
+          "commentsCount": 2,
+          "viewCount": 2971,
+          "engagementProxy": 75
         },
         {
           "id": "4019310784575745494",
@@ -1528,10 +1528,10 @@
           "type": "Sidecar",
           "caption": "This, no phone & space to think.",
           "timestamp": "2026-10-30T11:20:03.000Z",
-          "likesCount": 2619,
+          "likesCount": 2634,
           "commentsCount": 31,
           "viewCount": null,
-          "engagementProxy": 2681
+          "engagementProxy": 2696
         },
         {
           "id": "4018571585975263998",
@@ -1539,10 +1539,10 @@
           "type": "Sidecar",
           "caption": "Stargazing in Bosnia & I caught these on my iPhone.\n\nCan you notice any constellations? \n\n#Stars #NightPhotography #LongExposure",
           "timestamp": "2026-10-29T10:51:25.000Z",
-          "likesCount": 2119,
+          "likesCount": 2148,
           "commentsCount": 16,
           "viewCount": null,
-          "engagementProxy": 2151
+          "engagementProxy": 2180
         },
         {
           "id": "4018569886376191714",
@@ -1550,10 +1550,10 @@
           "type": "Sidecar",
           "caption": "“When 2 people meet their souls interact.”\n\nThe best part about my work is who I get to meet and hang out with while calling it ‘work’. \n\nThere’s a skill you pick up after meeting 1000s of people, you",
           "timestamp": "2026-10-29T10:48:02.000Z",
-          "likesCount": 1075,
+          "likesCount": 1086,
           "commentsCount": 8,
           "viewCount": null,
-          "engagementProxy": 1091
+          "engagementProxy": 1102
         },
         {
           "id": "3992546967694787842",
@@ -1583,10 +1583,10 @@
           "type": "Sidecar",
           "caption": "Muslim Tech Fest Bosnia 🇧🇦 \n\nOfficially a tech bro (?)\n\nHad a great time running this workshop, met some v cool people as always and made some 1% changes to my speaking. \n\nAfter an event it’s all ab",
           "timestamp": "2026-10-29T10:37:48.000Z",
-          "likesCount": 383,
+          "likesCount": 397,
           "commentsCount": 6,
           "viewCount": null,
-          "engagementProxy": 395
+          "engagementProxy": 409
         },
         {
           "id": "4010572708106384515",
@@ -1605,10 +1605,10 @@
           "type": "Sidecar",
           "caption": "Before you can grow outward, you have to go inward🌱\n\nThis Friday, we’re taking a step back from the chaos of the week to focus on what matters most: understanding ourselves. Joined by Dr Daanish Mahm",
           "timestamp": "2026-11-04T20:24:36.000Z",
-          "likesCount": 262,
+          "likesCount": 267,
           "commentsCount": 9,
           "viewCount": null,
-          "engagementProxy": 280
+          "engagementProxy": 285
         },
         {
           "id": "4011425860862629453",
@@ -1635,7 +1635,7 @@
           "timestamp": "2026-08-15T10:53:31.000Z",
           "likesCount": 5608,
           "commentsCount": 210,
-          "viewCount": 128209,
+          "viewCount": 128224,
           "engagementProxy": 6028
         },
         {
@@ -1644,10 +1644,10 @@
           "type": "Video",
           "caption": "🏥 Weekly Update | Hope and Haven Medical Clinic – Adré, Chad\n\nAnother week at our medical clinic in Al-Malik Camp, Adré, where our team continues to provide free healthcare to Sudanese refugees and v",
           "timestamp": "2026-08-09T16:47:10.000Z",
-          "likesCount": 5847,
+          "likesCount": 5841,
           "commentsCount": 14,
-          "viewCount": 121547,
-          "engagementProxy": 5875
+          "viewCount": 121550,
+          "engagementProxy": 5869
         },
         {
           "id": "3966593093626597636",
@@ -1655,10 +1655,10 @@
           "type": "Video",
           "caption": "Hope and Haven for Refugees Organization\nIn Cooperation with the Humanitarian Aid Commission (HAC)\n\nDate: 17 August 2026\nLocation: Sheikan Locality, North Kordofan State – El Obeid\nPrepared by: Aisha ",
           "timestamp": "2026-08-18T17:47:23.000Z",
-          "likesCount": 9226,
+          "likesCount": 9220,
           "commentsCount": 11,
-          "viewCount": 86145,
-          "engagementProxy": 9248
+          "viewCount": 86157,
+          "engagementProxy": 9242
         },
         {
           "id": "3986943190050785023",
@@ -1666,10 +1666,10 @@
           "type": "Video",
           "caption": "We are very weak, divided. We're also extremely profitable. So why not divide. Also, if you still believe it's a protest, I'm just going to need you to even attempt something like that. No matter how ",
           "timestamp": "2026-09-15T19:33:56.000Z",
-          "likesCount": 6154,
+          "likesCount": 6156,
           "commentsCount": 74,
-          "viewCount": 81494,
-          "engagementProxy": 6302
+          "viewCount": 81562,
+          "engagementProxy": 6304
         },
         {
           "id": "3999184402993689960",
@@ -1677,10 +1677,10 @@
           "type": "Video",
           "caption": "@saffanabanana at our 10 Year Anniversary celebration. She reminded us all once we understand the concept of ‘la hawla wala quwwata illa billah’ (there is no power nor strength except through Allah), ",
           "timestamp": "2026-10-02T16:54:01.000Z",
-          "likesCount": 5612,
+          "likesCount": 5653,
           "commentsCount": 82,
-          "viewCount": 79291,
-          "engagementProxy": 5776
+          "viewCount": 79712,
+          "engagementProxy": 5817
         },
         {
           "id": "3981794821309329208",
@@ -1688,10 +1688,10 @@
           "type": "Video",
           "caption": "It's not a fair fight. But it's okay, I'm on your side. \n\nIt takes a long time to brainwash you in a few seconds \n\n#whiteboard #medialiteracy",
           "timestamp": "2026-09-08T17:07:04.000Z",
-          "likesCount": 5432,
+          "likesCount": 5447,
           "commentsCount": 39,
-          "viewCount": 73368,
-          "engagementProxy": 5510
+          "viewCount": 73501,
+          "engagementProxy": 5525
         },
         {
           "id": "3989867194214426687",
@@ -1699,10 +1699,10 @@
           "type": "Video",
           "caption": "Alhamdulillah alhamdulillah \n\nAll Thanks and gratitude to The Most High. \n\nI will see you in New Zealand if Allah SWT permits. \n\nBook your tickets and I will see you in the flesh. In overwhelm. In gra",
           "timestamp": "2026-09-19T20:26:09.000Z",
-          "likesCount": 5940,
+          "likesCount": 5950,
           "commentsCount": 425,
-          "viewCount": 60587,
-          "engagementProxy": 6790
+          "viewCount": 60726,
+          "engagementProxy": 6800
         },
         {
           "id": "3942387298483570074",
@@ -1712,7 +1712,7 @@
           "timestamp": "2026-07-16T08:08:50.000Z",
           "likesCount": 4459,
           "commentsCount": 63,
-          "viewCount": 58218,
+          "viewCount": 58226,
           "engagementProxy": 4585
         },
         {
@@ -1723,7 +1723,7 @@
           "timestamp": "2026-08-23T18:39:30.000Z",
           "likesCount": 4244,
           "commentsCount": 100,
-          "viewCount": 50280,
+          "viewCount": 50294,
           "engagementProxy": 4444
         },
         {
@@ -1734,8 +1734,19 @@
           "timestamp": "2026-07-17T15:15:36.000Z",
           "likesCount": 3504,
           "commentsCount": 144,
-          "viewCount": 46422,
+          "viewCount": 46428,
           "engagementProxy": 3792
+        },
+        {
+          "id": "4026137276447914701",
+          "url": "https://www.instagram.com/p/DfftoWDovrN/",
+          "type": "Video",
+          "caption": "Episode 2 of the public speaking series called \n\nHey, stop speaking like that. \n\nPlease have one thing, then please keep everything focused around this one very important point you need me to understa",
+          "timestamp": "2026-11-08T21:30:57.000Z",
+          "likesCount": 2056,
+          "commentsCount": 26,
+          "viewCount": 42775,
+          "engagementProxy": 2108
         },
         {
           "id": "3965927667700677080",
@@ -1745,7 +1756,7 @@
           "timestamp": "2026-08-17T19:38:46.000Z",
           "likesCount": 2121,
           "commentsCount": 28,
-          "viewCount": 38433,
+          "viewCount": 38444,
           "engagementProxy": 2177
         },
         {
@@ -1756,7 +1767,7 @@
           "timestamp": "2026-08-14T21:00:27.000Z",
           "likesCount": 1603,
           "commentsCount": 33,
-          "viewCount": 34229,
+          "viewCount": 34246,
           "engagementProxy": 1669
         },
         {
@@ -1765,10 +1776,10 @@
           "type": "Video",
           "caption": "It's hey stop speaking like that. It's a series. So if you like this then like this innit. \n\nOkay. See you in the next one. Nothing for you to action. \n\nAlso, I asked my newsletter friends What they'd",
           "timestamp": "2026-11-05T21:13:02.000Z",
-          "likesCount": 2213,
-          "commentsCount": 46,
-          "viewCount": 30495,
-          "engagementProxy": 2305
+          "likesCount": 2245,
+          "commentsCount": 47,
+          "viewCount": 31203,
+          "engagementProxy": 2339
         },
         {
           "id": "3983126864815384238",
@@ -1776,10 +1787,10 @@
           "type": "Video",
           "caption": "Just pick a binary tbh. Tell you that you're on the side thats doing better than the other, and you'll WANT TO divide yourself. Suuuuuuuper easy super cool. \n\nconquering us is v v profitable. \n\nleft V",
           "timestamp": "2026-09-10T13:15:57.000Z",
-          "likesCount": 2006,
+          "likesCount": 2008,
           "commentsCount": 40,
-          "viewCount": 29776,
-          "engagementProxy": 2086
+          "viewCount": 29833,
+          "engagementProxy": 2088
         },
         {
           "id": "3970930480007620582",
@@ -1789,7 +1800,7 @@
           "timestamp": "2026-08-24T17:19:48.000Z",
           "likesCount": 1917,
           "commentsCount": 40,
-          "viewCount": 28436,
+          "viewCount": 28458,
           "engagementProxy": 1997
         },
         {
@@ -1800,7 +1811,7 @@
           "timestamp": "2026-07-06T14:18:39.000Z",
           "likesCount": 1378,
           "commentsCount": 13,
-          "viewCount": 28134,
+          "viewCount": 28141,
           "engagementProxy": 1404
         },
         {
@@ -1811,19 +1822,8 @@
           "timestamp": "2026-08-18T19:15:42.000Z",
           "likesCount": 377,
           "commentsCount": 5,
-          "viewCount": 27189,
+          "viewCount": 27203,
           "engagementProxy": 387
-        },
-        {
-          "id": "4026137276447914701",
-          "url": "https://www.instagram.com/p/DfftoWDovrN/",
-          "type": "Video",
-          "caption": "Episode 2 of the public speaking series called \n\nHey, stop speaking like that. \n\nPlease have one thing, then please keep everything focused around this one very important point you need me to understa",
-          "timestamp": "2026-11-08T21:30:57.000Z",
-          "likesCount": 1263,
-          "commentsCount": 20,
-          "viewCount": 25362,
-          "engagementProxy": 1303
         },
         {
           "id": "3971681060355534788",
@@ -1833,7 +1833,7 @@
           "timestamp": "2026-08-25T18:17:52.000Z",
           "likesCount": 1693,
           "commentsCount": 25,
-          "viewCount": 24866,
+          "viewCount": 24886,
           "engagementProxy": 1743
         },
         {
@@ -1844,7 +1844,7 @@
           "timestamp": "2026-07-08T09:14:05.000Z",
           "likesCount": 1574,
           "commentsCount": 33,
-          "viewCount": 23041,
+          "viewCount": 23048,
           "engagementProxy": 1640
         },
         {
@@ -1853,10 +1853,10 @@
           "type": "Video",
           "caption": "It's the series finale!!! And Plot twiiisssssttttt, it's actually a tragedy, not a comedy. \n\nYou were born searching for the language that allowed you to find connection by expressing the infinite in ",
           "timestamp": "2026-07-07T14:41:45.000Z",
-          "likesCount": 1251,
+          "likesCount": 1252,
           "commentsCount": 21,
-          "viewCount": 23007,
-          "engagementProxy": 1293
+          "viewCount": 23019,
+          "engagementProxy": 1294
         },
         {
           "id": "3962819316208933267",
@@ -1866,7 +1866,7 @@
           "timestamp": "2026-08-13T12:43:03.000Z",
           "likesCount": 843,
           "commentsCount": 31,
-          "viewCount": 21047,
+          "viewCount": 21058,
           "engagementProxy": 905
         },
         {
@@ -1875,10 +1875,10 @@
           "type": "Video",
           "caption": "I made you a board for this one\n\nStop reading like that. Stop accepting garbage for reality. This is not useful for you or anyone \n\nOkay?? Okay \n\n#medialiteracy \n#whiteboard",
           "timestamp": "2026-09-04T14:15:16.000Z",
-          "likesCount": 1456,
+          "likesCount": 1457,
           "commentsCount": 30,
-          "viewCount": 20489,
-          "engagementProxy": 1516
+          "viewCount": 20530,
+          "engagementProxy": 1517
         },
         {
           "id": "3955009411816113791",
@@ -1888,7 +1888,7 @@
           "timestamp": "2026-08-02T18:06:10.000Z",
           "likesCount": 670,
           "commentsCount": 10,
-          "viewCount": 19339,
+          "viewCount": 19347,
           "engagementProxy": 690
         },
         {
@@ -1899,7 +1899,7 @@
           "timestamp": "2026-07-05T17:53:34.000Z",
           "likesCount": 990,
           "commentsCount": 15,
-          "viewCount": 18240,
+          "viewCount": 18247,
           "engagementProxy": 1020
         },
         {
@@ -1910,7 +1910,7 @@
           "timestamp": "2026-07-14T14:56:40.000Z",
           "likesCount": 899,
           "commentsCount": 15,
-          "viewCount": 16096,
+          "viewCount": 16100,
           "engagementProxy": 929
         },
         {
@@ -1921,7 +1921,7 @@
           "timestamp": "2026-10-13T04:49:27.000Z",
           "likesCount": 23,
           "commentsCount": 0,
-          "viewCount": 3574,
+          "viewCount": 3654,
           "engagementProxy": 23
         },
         {
@@ -1952,10 +1952,10 @@
           "type": "Sidecar",
           "caption": "✨ Introducing our Social Media finalists for the Muslim Women Awards 2026! 💜📱\n\nFrom content creation and digital storytelling to building communities and inspiring audiences, these women are making ",
           "timestamp": "2026-10-17T17:30:02.000Z",
-          "likesCount": 260,
+          "likesCount": 261,
           "commentsCount": 22,
           "viewCount": null,
-          "engagementProxy": 304
+          "engagementProxy": 305
         }
       ]
     },
@@ -1969,10 +1969,10 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-09-28T18:16:18.000Z",
-          "likesCount": 40953,
-          "commentsCount": 560,
-          "viewCount": 558996,
-          "engagementProxy": 42073
+          "likesCount": 41074,
+          "commentsCount": 561,
+          "viewCount": 561060,
+          "engagementProxy": 42196
         },
         {
           "id": "3982621683705122253",
@@ -1980,10 +1980,10 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-09-09T20:26:45.000Z",
-          "likesCount": 2252,
+          "likesCount": 2260,
           "commentsCount": 24,
-          "viewCount": 86218,
-          "engagementProxy": 2300
+          "viewCount": 86396,
+          "engagementProxy": 2308
         },
         {
           "id": "4002820190315466275",
@@ -1991,10 +1991,10 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-10-07T17:23:38.000Z",
-          "likesCount": 3765,
+          "likesCount": 3769,
           "commentsCount": 55,
-          "viewCount": 61319,
-          "engagementProxy": 3875
+          "viewCount": 61412,
+          "engagementProxy": 3879
         },
         {
           "id": "3981113939786054973",
@@ -2004,7 +2004,7 @@
           "timestamp": "2026-09-07T18:31:56.000Z",
           "likesCount": 2653,
           "commentsCount": 215,
-          "viewCount": 55351,
+          "viewCount": 55369,
           "engagementProxy": 3083
         },
         {
@@ -2013,10 +2013,10 @@
           "type": "Video",
           "caption": "You can pray and still need help.\n\nBoth can be true.",
           "timestamp": "2026-09-17T21:00:04.000Z",
-          "likesCount": 2319,
+          "likesCount": 2321,
           "commentsCount": 19,
-          "viewCount": 51526,
-          "engagementProxy": 2357
+          "viewCount": 51631,
+          "engagementProxy": 2359
         },
         {
           "id": "3976105490253064654",
@@ -2024,10 +2024,10 @@
           "type": "Video",
           "caption": "Overthinking comes from an addiction to clarity and certainty.",
           "timestamp": "2026-08-31T20:42:32.000Z",
-          "likesCount": 1681,
+          "likesCount": 1682,
           "commentsCount": 11,
-          "viewCount": 37166,
-          "engagementProxy": 1703
+          "viewCount": 37193,
+          "engagementProxy": 1704
         },
         {
           "id": "3995685156477614352",
@@ -2035,10 +2035,21 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-09-27T21:00:10.000Z",
-          "likesCount": 1369,
+          "likesCount": 1370,
           "commentsCount": 19,
-          "viewCount": 34315,
-          "engagementProxy": 1407
+          "viewCount": 34340,
+          "engagementProxy": 1408
+        },
+        {
+          "id": "3968838524575378017",
+          "url": "https://www.instagram.com/p/DcUJZw8M2ph/",
+          "type": "Video",
+          "caption": "Phone addiction trains you to expect constant stimulation. So when the dopamine stops, the discomfort can feel like anxiety, and you start interpreting silence as “they’re not into me.”",
+          "timestamp": "2026-08-21T20:00:05.000Z",
+          "likesCount": 1144,
+          "commentsCount": 24,
+          "viewCount": 32544,
+          "engagementProxy": 1192
         },
         {
           "id": "3970318139785376008",
@@ -2046,10 +2057,10 @@
           "type": "Video",
           "caption": "Too many young people are embarrassed about what they do for work, so they avoid people, rooms and opportunities that could actually help them move forward.\n\nWhere you are right now isn’t where you ha",
           "timestamp": "2026-08-23T21:00:05.000Z",
-          "likesCount": 1153,
+          "likesCount": 1152,
           "commentsCount": 17,
-          "viewCount": 31514,
-          "engagementProxy": 1187
+          "viewCount": 31521,
+          "engagementProxy": 1186
         },
         {
           "id": "3974653997633126194",
@@ -2059,7 +2070,7 @@
           "timestamp": "2026-08-29T20:46:25.000Z",
           "likesCount": 835,
           "commentsCount": 18,
-          "viewCount": 23717,
+          "viewCount": 23719,
           "engagementProxy": 871
         },
         {
@@ -2068,10 +2079,10 @@
           "type": "Video",
           "caption": "Don’t be misguided 👊🏽",
           "timestamp": "2026-09-20T21:44:08.000Z",
-          "likesCount": 1080,
+          "likesCount": 1081,
           "commentsCount": 21,
-          "viewCount": 22921,
-          "engagementProxy": 1122
+          "viewCount": 22936,
+          "engagementProxy": 1123
         },
         {
           "id": "3974727057169171072",
@@ -2081,7 +2092,7 @@
           "timestamp": "2026-08-29T23:00:05.000Z",
           "likesCount": 1163,
           "commentsCount": 9,
-          "viewCount": 21697,
+          "viewCount": 21698,
           "engagementProxy": 1181
         },
         {
@@ -2092,7 +2103,7 @@
           "timestamp": "2026-09-27T19:04:52.000Z",
           "likesCount": 904,
           "commentsCount": 19,
-          "viewCount": 20783,
+          "viewCount": 20794,
           "engagementProxy": 942
         },
         {
@@ -2101,10 +2112,10 @@
           "type": "Video",
           "caption": "Sexual desire doesn’t have a look, and appearing religious doesn’t automatically prove discipline. \n\nWe’ve become so focused on performing morality publicly that we rarely question who people are behi",
           "timestamp": "2026-08-23T18:56:22.000Z",
-          "likesCount": 743,
+          "likesCount": 742,
           "commentsCount": 19,
-          "viewCount": 19530,
-          "engagementProxy": 781
+          "viewCount": 19533,
+          "engagementProxy": 780
         },
         {
           "id": "3972574496474335438",
@@ -2114,7 +2125,7 @@
           "timestamp": "2026-08-26T23:44:56.000Z",
           "likesCount": 580,
           "commentsCount": 10,
-          "viewCount": 18444,
+          "viewCount": 18448,
           "engagementProxy": 600
         },
         {
@@ -2123,10 +2134,10 @@
           "type": "Video",
           "caption": "Give this one a good listen 👊🏽",
           "timestamp": "2026-10-12T19:00:05.000Z",
-          "likesCount": 860,
+          "likesCount": 862,
           "commentsCount": 12,
-          "viewCount": 18322,
-          "engagementProxy": 884
+          "viewCount": 18387,
+          "engagementProxy": 886
         },
         {
           "id": "3980466693561387726",
@@ -2134,10 +2145,10 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-09-06T21:04:42.000Z",
-          "likesCount": 556,
+          "likesCount": 557,
           "commentsCount": 7,
-          "viewCount": 16758,
-          "engagementProxy": 570
+          "viewCount": 16768,
+          "engagementProxy": 571
         },
         {
           "id": "3988316787458654266",
@@ -2147,7 +2158,7 @@
           "timestamp": "2026-09-17T17:00:04.000Z",
           "likesCount": 434,
           "commentsCount": 16,
-          "viewCount": 16531,
+          "viewCount": 16538,
           "engagementProxy": 466
         },
         {
@@ -2158,7 +2169,7 @@
           "timestamp": "2026-09-06T23:00:08.000Z",
           "likesCount": 421,
           "commentsCount": 5,
-          "viewCount": 16089,
+          "viewCount": 16103,
           "engagementProxy": 431
         },
         {
@@ -2169,7 +2180,7 @@
           "timestamp": "2026-09-13T17:45:37.000Z",
           "likesCount": 492,
           "commentsCount": 5,
-          "viewCount": 15392,
+          "viewCount": 15400,
           "engagementProxy": 502
         },
         {
@@ -2180,7 +2191,7 @@
           "timestamp": "2026-09-12T15:00:04.000Z",
           "likesCount": 314,
           "commentsCount": 4,
-          "viewCount": 15273,
+          "viewCount": 15281,
           "engagementProxy": 322
         },
         {
@@ -2191,7 +2202,7 @@
           "timestamp": "2026-08-21T23:00:07.000Z",
           "likesCount": 385,
           "commentsCount": 4,
-          "viewCount": 15017,
+          "viewCount": 15019,
           "engagementProxy": 393
         },
         {
@@ -2202,19 +2213,8 @@
           "timestamp": "2026-09-13T19:00:05.000Z",
           "likesCount": 525,
           "commentsCount": 5,
-          "viewCount": 14840,
+          "viewCount": 14850,
           "engagementProxy": 535
-        },
-        {
-          "id": "3974696807387224588",
-          "url": "https://www.instagram.com/p/Dco9a_-MdoM/",
-          "type": "Video",
-          "caption": "",
-          "timestamp": "2026-08-29T22:00:06.000Z",
-          "likesCount": 490,
-          "commentsCount": 7,
-          "viewCount": 13872,
-          "engagementProxy": 504
         },
         {
           "id": "3988377407969185122",
@@ -2224,8 +2224,19 @@
           "timestamp": "2026-09-17T19:00:06.000Z",
           "likesCount": 235,
           "commentsCount": 6,
-          "viewCount": 13865,
+          "viewCount": 13887,
           "engagementProxy": 247
+        },
+        {
+          "id": "3974696807387224588",
+          "url": "https://www.instagram.com/p/Dco9a_-MdoM/",
+          "type": "Video",
+          "caption": "",
+          "timestamp": "2026-08-29T22:00:06.000Z",
+          "likesCount": 490,
+          "commentsCount": 7,
+          "viewCount": 13876,
+          "engagementProxy": 504
         },
         {
           "id": "3995626490879495910",
@@ -2233,10 +2244,10 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-09-27T19:04:55.000Z",
-          "likesCount": 414,
+          "likesCount": 416,
           "commentsCount": 8,
-          "viewCount": 13282,
-          "engagementProxy": 430
+          "viewCount": 13304,
+          "engagementProxy": 432
         },
         {
           "id": "3995654999557591142",
@@ -2244,10 +2255,10 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-09-27T20:00:06.000Z",
-          "likesCount": 268,
+          "likesCount": 267,
           "commentsCount": 5,
-          "viewCount": 12716,
-          "engagementProxy": 278
+          "viewCount": 12754,
+          "engagementProxy": 277
         },
         {
           "id": "3985556363135741904",
@@ -2255,10 +2266,10 @@
           "type": "Video",
           "caption": "",
           "timestamp": "2026-09-13T21:37:15.000Z",
-          "likesCount": 480,
+          "likesCount": 479,
           "commentsCount": 4,
-          "viewCount": 11951,
-          "engagementProxy": 488
+          "viewCount": 11963,
+          "engagementProxy": 487
         },
         {
           "id": "3968898582252305971",
@@ -2268,7 +2279,7 @@
           "timestamp": "2026-08-21T21:30:02.000Z",
           "likesCount": 311,
           "commentsCount": 31,
-          "viewCount": 11459,
+          "viewCount": 11460,
           "engagementProxy": 373
         },
         {
@@ -2279,19 +2290,8 @@
           "timestamp": "2026-09-06T22:00:04.000Z",
           "likesCount": 309,
           "commentsCount": 10,
-          "viewCount": 10327,
+          "viewCount": 10331,
           "engagementProxy": 329
-        },
-        {
-          "id": "4026651209019454981",
-          "url": "https://www.instagram.com/p/DfhifDEAHYF/",
-          "type": "Video",
-          "caption": "Some of you have become so obsessed with understanding yourselves that you don’t even allow yourselves to feel anything anymore.\n\nSometimes you’re just having a bad day. You don’t need to analyse it, ",
-          "timestamp": "2026-11-09T14:26:04.000Z",
-          "likesCount": 1,
-          "commentsCount": 0,
-          "viewCount": 0,
-          "engagementProxy": 1
         }
       ]
     },
@@ -2305,10 +2305,10 @@
           "type": "Video",
           "caption": "If you don’t want to ask generic networking questions, here are some to help you authentically connect with people! #networking #career #internship #job #networkingtips",
           "timestamp": "2026-06-15T23:49:56.000Z",
-          "likesCount": 119398,
+          "likesCount": 119444,
           "commentsCount": 123,
-          "viewCount": 2136026,
-          "engagementProxy": 119644
+          "viewCount": 2136876,
+          "engagementProxy": 119690
         },
         {
           "id": "3892086428502441238",
@@ -2316,10 +2316,10 @@
           "type": "Video",
           "caption": "Looking through of graduation shoot b roll is so crazy bc it feels like just yesterday that I was trying to figure out what to study or how to navigate college #graduation #graduate #woman #yellowfont",
           "timestamp": "2026-05-07T22:28:27.000Z",
-          "likesCount": 58760,
+          "likesCount": 58750,
           "commentsCount": 105,
-          "viewCount": 535402,
-          "engagementProxy": 58970
+          "viewCount": 535445,
+          "engagementProxy": 58960
         },
         {
           "id": "3906124507803213614",
@@ -2327,10 +2327,10 @@
           "type": "Video",
           "caption": "this is your sign to start #mindset #yellowfont #career",
           "timestamp": "2026-05-27T07:19:37.000Z",
-          "likesCount": 54350,
+          "likesCount": 54347,
           "commentsCount": 79,
-          "viewCount": 483289,
-          "engagementProxy": 54508
+          "viewCount": 483319,
+          "engagementProxy": 54505
         },
         {
           "id": "3891932307225784080",
@@ -2340,7 +2340,7 @@
           "timestamp": "2026-05-07T17:22:14.000Z",
           "likesCount": 6939,
           "commentsCount": 66,
-          "viewCount": 254194,
+          "viewCount": 254220,
           "engagementProxy": 7071
         },
         {
@@ -2351,7 +2351,7 @@
           "timestamp": "2026-06-04T03:31:33.000Z",
           "likesCount": 5665,
           "commentsCount": 44,
-          "viewCount": 143465,
+          "viewCount": 143485,
           "engagementProxy": 5753
         },
         {
@@ -2362,7 +2362,7 @@
           "timestamp": "2026-05-04T19:00:15.000Z",
           "likesCount": 1117,
           "commentsCount": 20,
-          "viewCount": 138544,
+          "viewCount": 138555,
           "engagementProxy": 1157
         },
         {
@@ -2373,7 +2373,7 @@
           "timestamp": "2026-05-28T19:04:15.000Z",
           "likesCount": 697,
           "commentsCount": 19,
-          "viewCount": 134093,
+          "viewCount": 134104,
           "engagementProxy": 735
         },
         {
@@ -2382,10 +2382,10 @@
           "type": "Video",
           "caption": "Photographer: @anjuman.films Graduation photos are something you are going to look back on in 10, 20, 30 years down the line and reminisce. It’s an investment to commemorate your achievements and it’s",
           "timestamp": "2026-05-26T18:27:17.000Z",
-          "likesCount": 2515,
+          "likesCount": 2516,
           "commentsCount": 17,
-          "viewCount": 71926,
-          "engagementProxy": 2549
+          "viewCount": 71939,
+          "engagementProxy": 2550
         },
         {
           "id": "3888460540742175502",
@@ -2393,10 +2393,10 @@
           "type": "Video",
           "caption": "since you guys liked the last post, here’s a reminder that anyone can give you attention but not everyone will be intentional with your time! #yellowfont #mindset #selflove #friendship",
           "timestamp": "2026-05-02T22:24:29.000Z",
-          "likesCount": 3862,
+          "likesCount": 3863,
           "commentsCount": 16,
-          "viewCount": 61570,
-          "engagementProxy": 3894
+          "viewCount": 61577,
+          "engagementProxy": 3895
         },
         {
           "id": "3887898599954198337",
@@ -2406,7 +2406,7 @@
           "timestamp": "2026-05-02T03:48:22.000Z",
           "likesCount": 1851,
           "commentsCount": 14,
-          "viewCount": 55384,
+          "viewCount": 55391,
           "engagementProxy": 1879
         },
         {
@@ -2417,7 +2417,7 @@
           "timestamp": "2026-06-01T19:26:08.000Z",
           "likesCount": 2013,
           "commentsCount": 51,
-          "viewCount": 47957,
+          "viewCount": 47967,
           "engagementProxy": 2115
         },
         {
@@ -2428,7 +2428,7 @@
           "timestamp": "2026-07-08T19:03:24.000Z",
           "likesCount": -1,
           "commentsCount": 21,
-          "viewCount": 41840,
+          "viewCount": 41851,
           "engagementProxy": 41
         },
         {
@@ -2437,10 +2437,10 @@
           "type": "Video",
           "caption": "being a soft woman doesn’t mean having no aspirations or desire to learn or grow. this is your reminder to be a student of life! #career #woman #mindset #success",
           "timestamp": "2026-06-03T16:48:17.000Z",
-          "likesCount": 2018,
+          "likesCount": 2019,
           "commentsCount": 11,
-          "viewCount": 38172,
-          "engagementProxy": 2040
+          "viewCount": 38184,
+          "engagementProxy": 2041
         },
         {
           "id": "3901861319096438553",
@@ -2448,10 +2448,10 @@
           "type": "Sidecar",
           "caption": "did a thing 🐻💛💙\n\n📸 @anjuman.films",
           "timestamp": "2026-05-21T10:08:57.000Z",
-          "likesCount": 8862,
+          "likesCount": 8863,
           "commentsCount": 169,
           "viewCount": null,
-          "engagementProxy": 9200
+          "engagementProxy": 9201
         },
         {
           "id": "3933907418971202888",
@@ -2470,10 +2470,10 @@
           "type": "Sidecar",
           "caption": "had to celebrate with my ancestors 🎓🎉\n\nI learned a lot at Berkeley, but there was one thing Egypt taught me that contradicted all my 9 AM lectures: to give freely. To be hospitable, to be generous w",
           "timestamp": "2026-08-10T15:51:39.000Z",
-          "likesCount": 4742,
+          "likesCount": 4741,
           "commentsCount": 62,
           "viewCount": null,
-          "engagementProxy": 4866
+          "engagementProxy": 4865
         },
         {
           "id": "3986555001225085720",
@@ -2492,10 +2492,10 @@
           "type": "Sidecar",
           "caption": "wanna play mermaids?",
           "timestamp": "2026-07-16T20:29:02.000Z",
-          "likesCount": 2904,
+          "likesCount": 2906,
           "commentsCount": 54,
           "viewCount": null,
-          "engagementProxy": 3012
+          "engagementProxy": 3014
         },
         {
           "id": "3927332243798570979",
@@ -2503,10 +2503,10 @@
           "type": "Sidecar",
           "caption": "enty (za)malek 💐 \n\ndress from @shopcider \nhijab from @noorthelabelhijabs (code RANA15)",
           "timestamp": "2026-06-25T13:35:08.000Z",
-          "likesCount": 2292,
+          "likesCount": 2291,
           "commentsCount": 48,
           "viewCount": null,
-          "engagementProxy": 2388
+          "engagementProxy": 2387
         },
         {
           "id": "3955007232362237432",
@@ -2514,10 +2514,10 @@
           "type": "Sidecar",
           "caption": "what’s one piece of college advice you wish you had as a freshman #college #career #internship",
           "timestamp": "2026-08-02T18:00:02.000Z",
-          "likesCount": 2058,
+          "likesCount": 2060,
           "commentsCount": 11,
           "viewCount": null,
-          "engagementProxy": 2080
+          "engagementProxy": 2082
         },
         {
           "id": "3959426767743957918",
@@ -2525,10 +2525,10 @@
           "type": "Sidecar",
           "caption": "kinda chic to be consumed with your own becoming :)\n#mindset #spiderman #brandnewday #selflove #growth",
           "timestamp": "2026-08-08T20:21:13.000Z",
-          "likesCount": 1821,
+          "likesCount": 1822,
           "commentsCount": 9,
           "viewCount": null,
-          "engagementProxy": 1839
+          "engagementProxy": 1840
         },
         {
           "id": "4005867928612405239",
@@ -2536,10 +2536,10 @@
           "type": "Sidecar",
           "caption": "nyc 🍎🗽🚕",
           "timestamp": "2026-10-11T22:11:31.000Z",
-          "likesCount": 1736,
+          "likesCount": 1738,
           "commentsCount": 49,
           "viewCount": null,
-          "engagementProxy": 1834
+          "engagementProxy": 1836
         },
         {
           "id": "3918744611602691802",
@@ -2558,10 +2558,10 @@
           "type": "Sidecar",
           "caption": "who needs a drivers license when you have a camel",
           "timestamp": "2026-08-13T09:20:02.000Z",
-          "likesCount": 1473,
+          "likesCount": 1475,
           "commentsCount": 19,
           "viewCount": null,
-          "engagementProxy": 1511
+          "engagementProxy": 1513
         },
         {
           "id": "3940343418547200135",
@@ -2591,10 +2591,10 @@
           "type": "Sidecar",
           "caption": "Four months after graduating from @ucberkeleyofficial I’m back as a guest lecturer at the @sutardjacenter course for AI entrepreneurship (hosted by the incredible @startup.sep) 💙🐻 \n\n@fatimahs.guide ",
           "timestamp": "2026-09-28T09:43:16.000Z",
-          "likesCount": 1149,
+          "likesCount": 1150,
           "commentsCount": 15,
           "viewCount": null,
-          "engagementProxy": 1179
+          "engagementProxy": 1180
         },
         {
           "id": "4000060183103575886",
@@ -2602,21 +2602,10 @@
           "type": "Sidecar",
           "caption": "Three days in New Orleans later… I’m officially joining the @goodnotes.app creator club! Such a magical time with equally magical people, what a gift to create alongside other passionate people from a",
           "timestamp": "2026-10-03T21:52:34.000Z",
-          "likesCount": 683,
+          "likesCount": 684,
           "commentsCount": 16,
           "viewCount": null,
-          "engagementProxy": 715
-        },
-        {
-          "id": "3948393488458826992",
-          "url": "https://www.instagram.com/p/DbLgvVRDcTw/",
-          "type": "Sidecar",
-          "caption": "ليلة في مصر 🇪🇬\n\ntop @bershka \nhijab @veiledcollection",
-          "timestamp": "2026-07-24T15:00:04.000Z",
-          "likesCount": -1,
-          "commentsCount": 11,
-          "viewCount": null,
-          "engagementProxy": 21
+          "engagementProxy": 716
         },
         {
           "id": "3990530756879956910",
@@ -2624,6 +2613,17 @@
           "type": "Sidecar",
           "caption": "@createcultivate day 1 🌟 so inspiring to be around other ambitious, giving women who want to see each other win",
           "timestamp": "2026-09-20T18:19:18.000Z",
+          "likesCount": -1,
+          "commentsCount": 11,
+          "viewCount": null,
+          "engagementProxy": 21
+        },
+        {
+          "id": "3948393488458826992",
+          "url": "https://www.instagram.com/p/DbLgvVRDcTw/",
+          "type": "Sidecar",
+          "caption": "ليلة في مصر 🇪🇬\n\ntop @bershka \nhijab @veiledcollection",
+          "timestamp": "2026-07-24T15:00:04.000Z",
           "likesCount": -1,
           "commentsCount": 11,
           "viewCount": null,
